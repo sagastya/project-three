@@ -1,1 +1,1 @@
-web: gunicorn pandemic-stock:app
+web: gunicorn PandemicStock:app
