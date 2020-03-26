@@ -19,7 +19,7 @@ db = SQLAlchemy(app)
 
 
 def getApiInfo(apikey_id):
-    print("entering getapiinfo id = [" + getApiInfo + "]")
+    print("entering getapiinfo id = [" + apikey_id + "]")
     engine = db.engine
     conn = engine.connect()
     data = pd.read_sql("SELECT * FROM apikey where id=" + apikey_id, conn)
