@@ -15,7 +15,7 @@ def table():
     """Renders the contact page."""
     print("rendering table from python application")
     # get api info from database
-    apikey, baseurl = getApiInfo()
+    apikey, baseurl = getApiInfo(1)
     queryUrl = baseurl + "&collapse=monthly&api_key="+ apikey
     response = requests.get(queryUrl).json()
     return response
@@ -25,7 +25,7 @@ def chart():
     """Renders the contact page."""
     print("rendering chart from python application")
     # get api info from database
-    apikey, baseurl = getApiInfo()
+    apikey, baseurl = getApiInfo(1)
     queryUrl = baseurl + "&api_key="+ apikey
     response = requests.get(queryUrl).json()
     return response

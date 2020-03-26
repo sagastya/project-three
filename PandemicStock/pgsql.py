@@ -18,11 +18,11 @@ app.config['SQLALCHEMY_DATABASE_URI'] = DATABASE_URL
 db = SQLAlchemy(app)
 
 
-def getApiInfo():
-    print("entering getapiinfo")
+def getApiInfo(apikey_id):
+    print("entering getapiinfo id = [" + getApiInfo + "]")
     engine = db.engine
     conn = engine.connect()
-    data = pd.read_sql("SELECT * FROM apikey where id=1", conn)
+    data = pd.read_sql("SELECT * FROM apikey where id=" + apikey_id, conn)
     print(data)
     key= data['api_key'][0]
     baseurl = data['base_url'][0]
