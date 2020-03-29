@@ -35,6 +35,25 @@ def plot():
         year=datetime.now().year,
         message='Your Financial report page.'
     )
+@app.route('/heat')
+def heat():
+    """Renders the heat page."""
+    return render_template(
+        'heat.html',
+        title='Heat Map',
+        year=datetime.now().year,
+        message='Your heat report page.'
+    )
+
+@app.route('/live-stats')
+def livestats():
+    """Renders the heat page."""
+    return render_template(
+        'live-stats.html',
+        title='Live Stats',
+        year=datetime.now().year,
+        message='Live daily updates from Johns Hopkins.'
+    )
 
 @app.route('/about')
 def about():

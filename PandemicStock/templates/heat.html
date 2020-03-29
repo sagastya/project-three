@@ -1,0 +1,15 @@
+{% extends "layout.html" %}
+{% block myscripts %}
+<script src='https://cdn.plot.ly/plotly-latest.min.js'></script>
+{% endblock %}
+{% block content %}
+<h2>{{ title }}.</h2>
+<h3>{{ message }}</h3>
+<div class="container">
+    <div id='myDiv'>
+    </div>
+</div>
+{% endblock %}
+{% block scripts %}
+<script type="text/javascript" src="static/scripts/heat.js"></script>
+{% endblock %}

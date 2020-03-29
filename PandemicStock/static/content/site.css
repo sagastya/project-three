@@ -40,3 +40,36 @@ input[type="checkbox"].input-validation-error {
 .validation-summary-valid {
     display: none;
 }
+
+.jumbotron {
+    background-image: url(../../static/images/stocks.jpg);
+    background-size: 100% 100%;
+}
+
+.jumbotron h1 {
+    color: white;
+}
+
+.jumbotron p {
+
+    color: white;
+}
+
+button.btn.btn-primary.dropdown-toggle {
+
+    background-color: #222222;
+    border-color: #222222;
+    color: #999;
+    padding-top: 15px;
+    padding-bottom: 15px;
+}
+
+.btn-primary:hover,
+.btn-primary:focus,
+.btn-primary:active,
+.btn-primary.active,
+.open .dropdown-toggle.btn-primary {
+    color: #999;
+    background-color: #222222;
+    border-color: #222222;
+}

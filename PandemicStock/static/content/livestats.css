@@ -1,0 +1,51 @@
+
+/* On mouse hover, lighten state color */
+path:hover {
+    fill-opacity: .7;
+}
+
+.tooltip {
+    display: none;
+    position: abolute;
+    width: 130px;
+    height: 60px;
+    padding: 2px;
+    font: 10px sans-serif;
+    /* text-align: center; */
+    background: white;
+    border: 1px;
+    border-color: black;
+    border-radius: 10px;
+}
+
+/* Legend Font Style */
+body {
+    font: 11px sans-serif;
+}
+
+/* Legend Position Style */
+.legend {
+    position: inherit;
+    left: 850px;
+    top: 500px;
+}
+
+.stateInfo .property {
+    width: 50%;
+    display: inline-block;
+    box-sizing: border-box;
+    text-align: right;
+}
+
+.stateInfo .value {
+    text-align: left;
+    padding-left: 10px;
+    width: 50%;
+    display: inline-block;
+    box-sizing: border-box;
+}
+
+.state {
+    font: 14px sans-serif;
+    text-align: center;
+}
