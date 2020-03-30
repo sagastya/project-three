@@ -3,20 +3,19 @@ var width = 960;
 var height = 500;
 
 // D3 Projection
-var projection = d3.geo.albersUsa()
+var projection = d3.geoAlbersUsa()
     .translate([width / 2, height / 2]) // translate to center of screen
     .scale([1000]); // scale things down so see entire US
 
 // Define path generator
-var path = d3.geo.path() // path generator that will convert GeoJSON to SVG paths
+var path = d3.geoPath() // path generator that will convert GeoJSON to SVG paths
     .projection(projection); // tell path generator to use albersUsa projection
 
 
-var toolTip = d3.select("body").append('div')
-    .attr("class", "tooltip");
+
 
 //Define linear scale for output
-var color = d3.scale.linear()
+var color = d3.scaleLinear()
     .range(['#FEC44F', '#FEE391', '#FE9929', '#EC7014', '#CD4C00', '#993404']);
 
 var legendText = [{
@@ -51,10 +50,12 @@ var svg = d3.select("#myDiv")
     .attr("width", width)
     .attr("height", height);
 
+var mapGroup = svg.append("g")
 
-
+var toolTip = d3.select("#myDiv").insert('div')
+    .attr("class", "tool-tip");
 // Load in my states data!
-d3.json("https://corona.lmao.ninja/states", function (data) {
+d3.json("https://corona.lmao.ninja/states").then(function (data) {
     //color.domain(d3.extent(data.cases)); // setting the range of the input data
     var caseCount = [];
 
@@ -67,7 +68,7 @@ d3.json("https://corona.lmao.ninja/states", function (data) {
             0;
     }
     // Load GeoJSON data and merge with states data
-    d3.json("static/data/us-states.json", function (json) {
+    d3.json("static/data/us-states.json").then(function (json) {
 
         // Loop through each state data value in the .csv file
         for (var i = 0; i < data.length; i++) {
@@ -130,17 +131,17 @@ d3.json("https://corona.lmao.ninja/states", function (data) {
                 }
             })
             .on("mouseover", function (d, i) {
-                var toolTip = d3.select(".tooltip");
+                var toolTip = d3.select(".tool-tip");
                 toolTip.style("display", "block");
                 toolTip.html(d.properties.toolTip)
                     .style("left", d3.event.pageX + "px")
                     .style("top", d3.event.pageY + "px");
             })
             // Step 3: Add an onmouseout event to make the tooltip invisible
-            .on("mouseout", function () {
-                var toolTip = d3.select(".tooltip");
-                toolTip.style("display", "none");
-            });
+            // .on("mouseout", function () {
+            //     var toolTip = d3.select(".tool-tip");
+            //     toolTip.style("display", "none");
+            // });
 
 
         // // Map the cities I have lived in!

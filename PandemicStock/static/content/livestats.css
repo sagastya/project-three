@@ -4,11 +4,11 @@ path:hover {
     fill-opacity: .7;
 }
 
-.tooltip {
+.tool-tip {
     display: none;
-    position: abolute;
+    position: absolute;
     width: 130px;
-    height: 60px;
+    height: 68px;
     padding: 2px;
     font: 10px sans-serif;
     /* text-align: center; */
