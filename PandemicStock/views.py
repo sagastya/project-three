@@ -50,9 +50,9 @@ def livestats():
     """Renders the heat page."""
     return render_template(
         'live-stats.html',
-        title='Live Stats',
+        title='Live Covid Case Map By State.',
         year=datetime.now().year,
-        message='Live daily updates from Johns Hopkins.'
+        message='Circles indicate case fatalities.'
     )
 
 @app.route('/about')
