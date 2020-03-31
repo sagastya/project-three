@@ -137,11 +137,11 @@ d3.json("https://corona.lmao.ninja/states").then(function (data) {
                     .style("left", d3.event.pageX + "px")
                     .style("top", d3.event.pageY + "px");
             })
-            // Step 3: Add an onmouseout event to make the tooltip invisible
-            // .on("mouseout", function () {
-            //     var toolTip = d3.select(".tool-tip");
-            //     toolTip.style("display", "none");
-            // });
+            //Step 3: Add an onmouseout event to make the tooltip invisible
+            .on("mouseout", function () {
+                var toolTip = d3.select(".tool-tip");
+                toolTip.style("display", "none");
+            });
 
 
         // // Map the cities I have lived in!
