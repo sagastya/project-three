@@ -145,7 +145,7 @@ d3.json("https://corona.lmao.ninja/states").then(function (data) {
 
 
         // // Map the cities I have lived in!
-        d3.json("https://corona.lmao.ninja/jhucsse", function (data) {
+        d3.json("https://corona.lmao.ninja/jhucsse").then(function (data) {
 
             var usfiltered = data.filter(a => a.country == "US");
             var deaths = usfiltered.filter(a => a.stats.deaths > 0)
