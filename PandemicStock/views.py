@@ -65,6 +65,17 @@ def stocks():
  
     )
 
+@app.route('/time')
+def time():
+    """Renders time animation."""
+    return render_template(
+        'time.html',
+        title='Pandemic in Motion',
+        year=datetime.now().year,
+         message='Circles size indicates population.'
+ 
+    )
+
 @app.route('/about')
 def about():
     """Renders the about page."""
