@@ -147,10 +147,11 @@ d3.json("https://corona.lmao.ninja/states").then(function (data) {
         // // Map the cities I have lived in!
         d3.json("https://corona.lmao.ninja/jhucsse").then(function (data) {
 
+        
             var usfiltered = data.filter(a => a.country == "US");
             var deaths = usfiltered.filter(a => a.stats.deaths > 0)
-            deaths = deaths.filter(a => a.coordinates.longitude != "0.0")
-            deaths = deaths.filter(a => a.coordinates.latitude != "0.0")
+            deaths = deaths.filter(a => a.coordinates.longitude.length > 4)
+            deaths = deaths.filter(a => a.coordinates.latitude.length > 4)
             deaths = deaths.filter(a => a.city !== null)
             deaths.sort(function (x, y) {
                 return d3.ascending(x.stats.deaths, y.stats.deaths);
@@ -166,7 +167,7 @@ d3.json("https://corona.lmao.ninja/states").then(function (data) {
                     return projection([d.coordinates.longitude, d.coordinates.latitude])[1];
                 })
                 .attr("r", function (d) {
-                    return Math.sqrt(d.stats.deaths);
+                    return Math.sqrt(d.stats.deaths)/2;
                 })
                 .style("fill", "rgb(217,255,255)")
                 .style("opacity", 0.50)

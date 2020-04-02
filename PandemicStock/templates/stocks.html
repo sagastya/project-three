@@ -1,0 +1,56 @@
+{% extends "layout.html" %}
+{% block myscripts %}
+<script src="https://unpkg.com/simple-statistics@5.0.0/dist/simple-statistics.min.js"></script>
+<script src="https://cdnjs.cloudflare.com/ajax/libs/d3/5.9.7/d3.min.js"></script>
+<script src="https://cdn.plot.ly/plotly-latest.min.js"></script>
+<link rel="stylesheet" type="text/css" href="static/content/stocks.css">
+{% endblock %}
+{% block content %}
+<h2>{{ title }}.</h2>
+
+
+    <div class="row">
+      <div class="col-md-4">
+        <div class="panel panel-primary">
+          <div class="panel-body">
+            Market Synopsis 
+          </div>
+        </div>
+        <div class="company">
+          The impact of COVID-19 on the stock market is remarkably  severe than the impact of other pandemics
+          SARS and Swine Flu. Transportation, Hospitality and Consumables industries which rely heavily on human
+          consumption are the most affected. A few stocks from these industries are selected for a comparative
+          look with emphasis on the specific COVID-19, Swine Flu and SARS spanning the timeline 2003 - 2020 
+          taking into consideration the changes starting with Day 1 and so on.  
+        </div>
+      </div>
+      <div class="col-md-8">
+        <div class="panel panel-default">
+          <div class="panel-body">
+            Visual Profile
+          </div>
+        </div>
+        <select id="selDataset" style="color:#000000;">
+          <option value="BA">BA</option>
+          <option value="DIS">DIS</option>
+          <option value="DOW">DOW</option>
+          <option value="PG">PG</option>
+        </select>
+        <div id="plot"></div>
+      </div>
+    </div>
+
+  </div>
+
+
+
+
+{% endblock %}
+{% block scripts %}
+
+<script src="static/data/stockdata.js"></script>
+<script src="static/scripts/stocks.js"></script>
+
+{% endblock %}
+
+

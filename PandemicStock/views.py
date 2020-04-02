@@ -52,7 +52,17 @@ def livestats():
         'live-stats.html',
         title='Live Covid Case Map By State.',
         year=datetime.now().year,
-        message='Circles indicate case fatalities.'
+        message='Circles indicate case fatalities positioned where they occured.'
+    )
+
+@app.route('/stocks')
+def stocks():
+    """Renders the heat page."""
+    return render_template(
+        'stocks.html',
+        title='Pandemics and Stock Market',
+        year=datetime.now().year,
+ 
     )
 
 @app.route('/about')
