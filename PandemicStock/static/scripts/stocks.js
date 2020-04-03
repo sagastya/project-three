@@ -64,7 +64,7 @@ function init() {
       mode: "lines",
       x: days,
       y: swineflu_dow,
-      name: "2009, SWINE",
+      name: "2009, Swine Flu",
       line: {
         color: "#e00070"
       }
@@ -89,15 +89,11 @@ function init() {
     var layout = {
       title: `Pandemic Comparative Impact - Dow Jones (DJI)`,
       xaxis: {
-        title: 'Interval - 1D',
-        showgrid: false,
-        zeroline: false
+        title: 'Interval - 1D'
       },
       yaxis: {
-        title: 'Currency in USD',
-        showline: false
-      },
-      // showlegend: false
+        title: 'Currency in USD'
+      }
     };
   
     // Create pandemic DOW Plot
@@ -130,7 +126,7 @@ function init() {
       mode: "lines",
       x: days,
       y: swineflu_ba,
-      name: "2009, SWINE",
+      name: "2009, Swine Flu",
       line: {
         color: "#e00070"
       }
@@ -154,9 +150,12 @@ function init() {
     // Layout for BA plot
     var layout = {
       title: `Pandemic Comparative Impact - Boeing (BA)`,
-      xaxis: {title: 'Interval - 1D'},
-      yaxis: {title: 'Currency in USD'},
-      showlegend: false
+      xaxis: {
+        title: 'Interval - 1D'
+      },
+      yaxis: {
+        title: 'Currency in USD'
+      }
     };
   
     // Create pandemic BA Plot
@@ -189,7 +188,7 @@ function init() {
       mode: "lines",
       x: days,
       y: swineflu_dis,
-      name: "2009, SWINE",
+      name: "2009, Swine Flu",
       line: {
         color: "#e00070"
       }
@@ -213,9 +212,12 @@ function init() {
     // Layout for DIS plot
     var layout = {
       title: `Pandemic Comparative Impact - Disney (DIS)`,
-      xaxis: {title: 'Interval - 1D'},
-      yaxis: {title: 'Currency in USD'},
-      showlegend: false
+      xaxis: {
+        title: 'Interval - 1D'
+      },
+      yaxis: {
+        title: 'Currency in USD'
+      }
     };
   
     // Create pandemic DIS Plot
@@ -248,7 +250,7 @@ function init() {
       mode: "lines",
       x: days,
       y: swineflu_pg,
-      name: "2009, SWINE FLU",
+      name: "2009, Swine Flu",
       line: {
         color: "#e00070"
       }
@@ -272,9 +274,12 @@ function init() {
     // Layout for PG plot
     var layout = {
       title: `Pandemic Comparative Impact - Proctor & Gamble (PG)`,
-      xaxis: {title: 'Interval - 1D'},
-      yaxis: {title: 'Currency in USD'},
-      showlegend: false
+      xaxis: {
+        title: 'Interval - 1D'
+      },
+      yaxis: {
+        title: 'Currency in USD'
+      }
     };
   
     // Create pandemic PG Plot
