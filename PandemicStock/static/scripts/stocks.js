@@ -1,5 +1,5 @@
 function init() {
-    // Intialize the dropdown menu item to default - DOW
+    // Intialize the dropdown menu item to default - DJI
     var dropdownMenu = d3.select("#selDataset");
     dropdownMenu.node().selectedIndex = 2;
     updatePlotly();
@@ -32,15 +32,15 @@ function init() {
         break;
   
       default:
-        buildDOW();
+        buildDJI();
         break;
     }
   
   }
   
   // Create multi-line DOW plot for COVID-19, Swine Flu and Sars timeline
-  function buildDOW() {
-    console.log("DOW...")
+  function buildDJI() {
+    console.log("DJI...")
     var days = Object.values(data.Days);
     var sars_dow = Object.values(data.SARS_DOW);
     var swineflu_dow = Object.values(data.SWINEFLU_DOW);
@@ -87,7 +87,9 @@ function init() {
   
     // Layout for the Plot
     var layout = {
-      title: `Pandemic Comparative Impact - Dow Jones (DOW)`,
+      title: `Pandemic Comparative Impact - Dow Jones (DJI)`,
+      xaxis_title: 'Interval - 1D',
+      yaxis_title: 'Currency in USD',
       showlegend: false
     };
   
@@ -145,6 +147,8 @@ function init() {
     // Layout for BA plot
     var layout = {
       title: `Pandemic Comparative Impact - Boeing (BA)`,
+      xaxis_title: 'Interval - 1D',
+      yaxis_title: 'Currency in USD',
       showlegend: false
     };
   
@@ -202,6 +206,8 @@ function init() {
     // Layout for DIS plot
     var layout = {
       title: `Pandemic Comparative Impact - Disney (DIS)`,
+      xaxis_title: 'Interval - 1D',
+      yaxis_title: 'Currency in USD',
       showlegend: false
     };
   
@@ -259,6 +265,8 @@ function init() {
     // Layout for PG plot
     var layout = {
       title: `Pandemic Comparative Impact - Proctor & Gamble (PG)`,
+      xaxis_title: 'Interval - 1D',
+      yaxis_title: 'Currency in USD',
       showlegend: false
     };
   
