@@ -88,9 +88,16 @@ function init() {
     // Layout for the Plot
     var layout = {
       title: `Pandemic Comparative Impact - Dow Jones (DJI)`,
-      xaxis: {title: 'Interval - 1D'},
-      yaxis: {title: 'Currency in USD'},
-      showlegend: false
+      xaxis: {
+        title: 'Interval - 1D',
+        showgrid: false,
+        zeroline: false
+      },
+      yaxis: {
+        title: 'Currency in USD',
+        showline: false
+      },
+      // showlegend: false
     };
   
     // Create pandemic DOW Plot
