@@ -200,7 +200,7 @@ function sleep(time) {
 
 function step() {
     // At the end of our data, loop back
-    time = (time < 78) ? time + 1 : 0;
+    time = (time < 78) ? time + 1 : 78;
     sleep(myDelay).then(() => {
         // Do something after the sleep!
         update(formattedData[time]);

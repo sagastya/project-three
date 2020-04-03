@@ -50,7 +50,7 @@ def livestats():
     """Renders the heat page."""
     return render_template(
         'live-stats.html',
-        title='Live statistics:',
+        title='Live Statistics:',
         year=datetime.now().year,
         message='Tracking the number of  coronavirus Cases & Deaths state wide across USA'
     )
@@ -60,7 +60,7 @@ def stocks():
     """Renders the heat page."""
     return render_template(
         'stocks.html',
-        title='Pandemics and Stock Market',
+        title='Pandemics and Stock Market:',
         year=datetime.now().year,
  
     )
@@ -70,7 +70,7 @@ def time():
     """Renders time animation."""
     return render_template(
         'time.html',
-        title='Pandemic in Motion',
+        title='Pandemic in Motion:',
         year=datetime.now().year,
          message='Circles size indicates population.'
  
