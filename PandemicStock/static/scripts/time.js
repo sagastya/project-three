@@ -128,7 +128,7 @@ d3.csv("static/data/covid-data.csv").then(function (data) {
         .entries(data);
 
     console.log(databyDate);
-     Clean data
+
     formattedData = databyDate.map(function (data) {
         // console.log(data);
         var myDate = data["values"].filter(
