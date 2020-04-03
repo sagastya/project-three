@@ -11,8 +11,8 @@ var margin = {
     bottom: 100
 };
 var height = 500 - margin.top - margin.bottom,
-    width = 800 - margin.left - margin.right
-myDelay = 500;
+    width = 800 - margin.left - margin.right,
+    myDelay = 500;
 
 var g = d3.select("#chart-area")
     .append("svg")
@@ -118,7 +118,7 @@ continents.forEach(function (continent, i) {
 });
 
 d3.csv("static/data/covid-data.csv").then(function (data) {
-    // console.log(data);
+     console.log(data);
 
 
     var databyDate = d3.nest()
@@ -128,7 +128,7 @@ d3.csv("static/data/covid-data.csv").then(function (data) {
         .entries(data);
 
     console.log(databyDate);
-    // Clean data
+     Clean data
     formattedData = databyDate.map(function (data) {
         // console.log(data);
         var myDate = data["values"].filter(

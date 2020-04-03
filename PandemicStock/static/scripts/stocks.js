@@ -275,7 +275,7 @@ function init() {
     var layout = {
       title: `Pandemic Comparative Impact - Proctor & Gamble (PG)`,
       xaxis: {
-        title: 'Interval - 1D'
+        title: 'Interval - 1 Day '
       },
       yaxis: {
         title: 'Currency in USD'
