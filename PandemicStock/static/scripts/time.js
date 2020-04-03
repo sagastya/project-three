@@ -185,7 +185,7 @@ $("#continent-select")
 
 $("#date-slider").slider({
     max: 78,
-    min: 1,
+    min: 0,
     step: 1,
     slide: function (event, ui) {
         time = ui.value;
