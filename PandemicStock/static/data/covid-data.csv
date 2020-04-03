@@ -1,1008 +1,4 @@
 date,country,continent,population,cases,deaths
-12/31/2019,Afghanistan,Asia,37172386,0,0
-12/31/2019,Algeria,Africa,42228429,0,0
-12/31/2019,Armenia,Europe,2951776,0,0
-12/31/2019,Australia,Asia,24992369,0,0
-12/31/2019,Austria,Europe,8847037,0,0
-12/31/2019,Azerbaijan,Europe,9942334,0,0
-12/31/2019,Bahrain,Asia,1569439,0,0
-12/31/2019,Belarus,Europe,9485386,0,0
-12/31/2019,Belgium,Europe,11422068,0,0
-12/31/2019,Brazil,Americas,209469333,0,0
-12/31/2019,Cambodia,Asia,16249798,0,0
-12/31/2019,Canada,Americas,37058856,0,0
-12/31/2019,China,Asia,1392730000,27,0
-12/31/2019,Croatia,Europe,4089400,0,0
-12/31/2019,Czech Republic,Europe,10625695,0,0
-12/31/2019,Denmark,Europe,5797446,0,0
-12/31/2019,Dominican Republic,Americas,10627165,0,0
-12/31/2019,Ecuador,Americas,17084357,0,0
-12/31/2019,Egypt,Africa,98423595,0,0
-12/31/2019,Estonia,Europe,1320884,0,0
-12/31/2019,Finland,Europe,5518050,0,0
-12/31/2019,France,Europe,66987244,0,0
-12/31/2019,Georgia,Europe,3731000,0,0
-12/31/2019,Germany,Europe,82927922,0,0
-12/31/2019,Greece,Europe,10727668,0,0
-12/31/2019,Iceland,Europe,353574,0,0
-12/31/2019,India,Asia,1352617328,0,0
-12/31/2019,Indonesia,Asia,267663435,0,0
-12/31/2019,Iran,Asia,81800269,0,0
-12/31/2019,Iraq,Asia,38433600,0,0
-12/31/2019,Ireland,Europe,4853506,0,0
-12/31/2019,Israel,Asia,8883800,0,0
-12/31/2019,Italy,Europe,60431283,0,0
-12/31/2019,Japan,Asia,126529100,0,0
-12/31/2019,Kuwait,Asia,4137309,0,0
-12/31/2019,Lebanon,Asia,6848925,0,0
-12/31/2019,Lithuania,Europe,2789533,0,0
-12/31/2019,Luxembourg,Europe,607728,0,0
-12/31/2019,Malaysia,Asia,31528585,0,0
-12/31/2019,Mexico,Americas,126190788,0,0
-12/31/2019,Monaco,Europe,38682,0,0
-12/31/2019,Nepal,Asia,28087871,0,0
-12/31/2019,Netherlands,Europe,17231017,0,0
-12/31/2019,New Zealand,Asia,4885500,0,0
-12/31/2019,Nigeria,Africa,195874740,0,0
-12/31/2019,North Macedonia,Europe,2082958,0,0
-12/31/2019,Norway,Europe,5314336,0,0
-12/31/2019,Oman,Asia,4829483,0,0
-12/31/2019,Pakistan,Asia,212215030,0,0
-12/31/2019,Philippines,Asia,106651922,0,0
-12/31/2019,Qatar,Asia,2781677,0,0
-12/31/2019,Romania,Europe,19473936,0,0
-12/31/2019,Russia,Europe,144478050,0,0
-12/31/2019,San Marino,Europe,33785,0,0
-12/31/2019,Singapore,Asia,5638676,0,0
-12/31/2019,South Korea,Asia,51635256,0,0
-12/31/2019,Spain,Europe,46723749,0,0
-12/31/2019,Sri Lanka,Asia,21670000,0,0
-12/31/2019,Sweden,Europe,10183175,0,0
-12/31/2019,Switzerland,Europe,8516543,0,0
-12/31/2019,Taiwan,A,23780452,0,0
-12/31/2019,Thailand,Asia,69428524,0,0
-12/31/2019,United Arab Emirates,Asia,9630959,0,0
-12/31/2019,United Kingdom,Europe,66488991,0,0
-12/31/2019,United States,Americas,327167434,0,0
-12/31/2019,Vietnam,Asia,95540395,0,0
-1/1/2020,Afghanistan,Asia,37172386,0,0
-1/1/2020,Algeria,Africa,42228429,0,0
-1/1/2020,Armenia,Europe,2951776,0,0
-1/1/2020,Australia,Asia,24992369,0,0
-1/1/2020,Austria,Europe,8847037,0,0
-1/1/2020,Azerbaijan,Europe,9942334,0,0
-1/1/2020,Bahrain,Asia,1569439,0,0
-1/1/2020,Belarus,Europe,9485386,0,0
-1/1/2020,Belgium,Europe,11422068,0,0
-1/1/2020,Brazil,Americas,209469333,0,0
-1/1/2020,Cambodia,Asia,16249798,0,0
-1/1/2020,Canada,Americas,37058856,0,0
-1/1/2020,Japan,Asia,3000,0,0
-1/1/2020,China,Asia,1392730000,27,0
-1/1/2020,Croatia,Europe,4089400,0,0
-1/1/2020,Czech Republic,Europe,10625695,0,0
-1/1/2020,Denmark,Europe,5797446,0,0
-1/1/2020,Dominican Republic,Americas,10627165,0,0
-1/1/2020,Ecuador,Americas,17084357,0,0
-1/1/2020,Egypt,Africa,98423595,0,0
-1/1/2020,Estonia,Europe,1320884,0,0
-1/1/2020,Finland,Europe,5518050,0,0
-1/1/2020,France,Europe,66987244,0,0
-1/1/2020,Georgia,Europe,3731000,0,0
-1/1/2020,Germany,Europe,82927922,0,0
-1/1/2020,Greece,Europe,10727668,0,0
-1/1/2020,Iceland,Europe,353574,0,0
-1/1/2020,India,Asia,1352617328,0,0
-1/1/2020,Indonesia,Asia,267663435,0,0
-1/1/2020,Iran,Asia,81800269,0,0
-1/1/2020,Iraq,Asia,38433600,0,0
-1/1/2020,Ireland,Europe,4853506,0,0
-1/1/2020,Israel,Asia,8883800,0,0
-1/1/2020,Italy,Europe,60431283,0,0
-1/1/2020,Japan,Asia,126529100,0,0
-1/1/2020,Kuwait,Asia,4137309,0,0
-1/1/2020,Lebanon,Asia,6848925,0,0
-1/1/2020,Lithuania,Europe,2789533,0,0
-1/1/2020,Luxembourg,Europe,607728,0,0
-1/1/2020,Malaysia,Asia,31528585,0,0
-1/1/2020,Mexico,Americas,126190788,0,0
-1/1/2020,Monaco,Europe,38682,0,0
-1/1/2020,Nepal,Asia,28087871,0,0
-1/1/2020,Netherlands,Europe,17231017,0,0
-1/1/2020,New Zealand,Asia,4885500,0,0
-1/1/2020,Nigeria,Africa,195874740,0,0
-1/1/2020,North Macedonia,Europe,2082958,0,0
-1/1/2020,Norway,Europe,5314336,0,0
-1/1/2020,Oman,Asia,4829483,0,0
-1/1/2020,Pakistan,Asia,212215030,0,0
-1/1/2020,Philippines,Asia,106651922,0,0
-1/1/2020,Qatar,Asia,2781677,0,0
-1/1/2020,Romania,Europe,19473936,0,0
-1/1/2020,Russia,Europe,144478050,0,0
-1/1/2020,San Marino,Europe,33785,0,0
-1/1/2020,Singapore,Asia,5638676,0,0
-1/1/2020,South Korea,Asia,51635256,0,0
-1/1/2020,Spain,Europe,46723749,0,0
-1/1/2020,Sri Lanka,Asia,21670000,0,0
-1/1/2020,Sweden,Europe,10183175,0,0
-1/1/2020,Switzerland,Europe,8516543,0,0
-1/1/2020,Taiwan,#N/A,23780452,0,0
-1/1/2020,Thailand,Asia,69428524,0,0
-1/1/2020,United Arab Emirates,Asia,9630959,0,0
-1/1/2020,United Kingdom,Europe,66488991,0,0
-1/1/2020,United States,Americas,327167434,0,0
-1/1/2020,Vietnam,Asia,95540395,0,0
-1/2/2020,Afghanistan,Asia,37172386,0,0
-1/2/2020,Algeria,Africa,42228429,0,0
-1/2/2020,Armenia,Europe,2951776,0,0
-1/2/2020,Australia,Asia,24992369,0,0
-1/2/2020,Austria,Europe,8847037,0,0
-1/2/2020,Azerbaijan,Europe,9942334,0,0
-1/2/2020,Bahrain,Asia,1569439,0,0
-1/2/2020,Belarus,Europe,9485386,0,0
-1/2/2020,Belgium,Europe,11422068,0,0
-1/2/2020,Brazil,Americas,209469333,0,0
-1/2/2020,Cambodia,Asia,16249798,0,0
-1/2/2020,Canada,Americas,37058856,0,0
-1/2/2020,Japan,Asia,3000,0,0
-1/2/2020,China,Asia,1392730000,27,0
-1/2/2020,Croatia,Europe,4089400,0,0
-1/2/2020,Czech Republic,Europe,10625695,0,0
-1/2/2020,Denmark,Europe,5797446,0,0
-1/2/2020,Dominican Republic,Americas,10627165,0,0
-1/2/2020,Ecuador,Americas,17084357,0,0
-1/2/2020,Egypt,Africa,98423595,0,0
-1/2/2020,Estonia,Europe,1320884,0,0
-1/2/2020,Finland,Europe,5518050,0,0
-1/2/2020,France,Europe,66987244,0,0
-1/2/2020,Georgia,Europe,3731000,0,0
-1/2/2020,Germany,Europe,82927922,0,0
-1/2/2020,Greece,Europe,10727668,0,0
-1/2/2020,Iceland,Europe,353574,0,0
-1/2/2020,India,Asia,1352617328,0,0
-1/2/2020,Indonesia,Asia,267663435,0,0
-1/2/2020,Iran,Asia,81800269,0,0
-1/2/2020,Iraq,Asia,38433600,0,0
-1/2/2020,Ireland,Europe,4853506,0,0
-1/2/2020,Israel,Asia,8883800,0,0
-1/2/2020,Italy,Europe,60431283,0,0
-1/2/2020,Japan,Asia,126529100,0,0
-1/2/2020,Kuwait,Asia,4137309,0,0
-1/2/2020,Lebanon,Asia,6848925,0,0
-1/2/2020,Lithuania,Europe,2789533,0,0
-1/2/2020,Luxembourg,Europe,607728,0,0
-1/2/2020,Malaysia,Asia,31528585,0,0
-1/2/2020,Mexico,Americas,126190788,0,0
-1/2/2020,Monaco,Europe,38682,0,0
-1/2/2020,Nepal,Asia,28087871,0,0
-1/2/2020,Netherlands,Europe,17231017,0,0
-1/2/2020,New Zealand,Asia,4885500,0,0
-1/2/2020,Nigeria,Africa,195874740,0,0
-1/2/2020,North Macedonia,Europe,2082958,0,0
-1/2/2020,Norway,Europe,5314336,0,0
-1/2/2020,Oman,Asia,4829483,0,0
-1/2/2020,Pakistan,Asia,212215030,0,0
-1/2/2020,Philippines,Asia,106651922,0,0
-1/2/2020,Qatar,Asia,2781677,0,0
-1/2/2020,Romania,Europe,19473936,0,0
-1/2/2020,Russia,Europe,144478050,0,0
-1/2/2020,San Marino,Europe,33785,0,0
-1/2/2020,Singapore,Asia,5638676,0,0
-1/2/2020,South Korea,Asia,51635256,0,0
-1/2/2020,Spain,Europe,46723749,0,0
-1/2/2020,Sri Lanka,Asia,21670000,0,0
-1/2/2020,Sweden,Europe,10183175,0,0
-1/2/2020,Switzerland,Europe,8516543,0,0
-1/2/2020,Taiwan,#N/A,23780452,0,0
-1/2/2020,Thailand,Asia,69428524,0,0
-1/2/2020,United Arab Emirates,Asia,9630959,0,0
-1/2/2020,United Kingdom,Europe,66488991,0,0
-1/2/2020,United States,Americas,327167434,0,0
-1/2/2020,Vietnam,Asia,95540395,0,0
-1/3/2020,Afghanistan,Asia,37172386,0,0
-1/3/2020,Algeria,Africa,42228429,0,0
-1/3/2020,Armenia,Europe,2951776,0,0
-1/3/2020,Australia,Asia,24992369,0,0
-1/3/2020,Austria,Europe,8847037,0,0
-1/3/2020,Azerbaijan,Europe,9942334,0,0
-1/3/2020,Bahrain,Asia,1569439,0,0
-1/3/2020,Belarus,Europe,9485386,0,0
-1/3/2020,Belgium,Europe,11422068,0,0
-1/3/2020,Brazil,Americas,209469333,0,0
-1/3/2020,Cambodia,Asia,16249798,0,0
-1/3/2020,Canada,Americas,37058856,0,0
-1/3/2020,Japan,Asia,3000,0,0
-1/3/2020,China,Asia,1392730000,44,0
-1/3/2020,Croatia,Europe,4089400,0,0
-1/3/2020,Czech Republic,Europe,10625695,0,0
-1/3/2020,Denmark,Europe,5797446,0,0
-1/3/2020,Dominican Republic,Americas,10627165,0,0
-1/3/2020,Ecuador,Americas,17084357,0,0
-1/3/2020,Egypt,Africa,98423595,0,0
-1/3/2020,Estonia,Europe,1320884,0,0
-1/3/2020,Finland,Europe,5518050,0,0
-1/3/2020,France,Europe,66987244,0,0
-1/3/2020,Georgia,Europe,3731000,0,0
-1/3/2020,Germany,Europe,82927922,0,0
-1/3/2020,Greece,Europe,10727668,0,0
-1/3/2020,Iceland,Europe,353574,0,0
-1/3/2020,India,Asia,1352617328,0,0
-1/3/2020,Indonesia,Asia,267663435,0,0
-1/3/2020,Iran,Asia,81800269,0,0
-1/3/2020,Iraq,Asia,38433600,0,0
-1/3/2020,Ireland,Europe,4853506,0,0
-1/3/2020,Israel,Asia,8883800,0,0
-1/3/2020,Italy,Europe,60431283,0,0
-1/3/2020,Japan,Asia,126529100,0,0
-1/3/2020,Kuwait,Asia,4137309,0,0
-1/3/2020,Lebanon,Asia,6848925,0,0
-1/3/2020,Lithuania,Europe,2789533,0,0
-1/3/2020,Luxembourg,Europe,607728,0,0
-1/3/2020,Malaysia,Asia,31528585,0,0
-1/3/2020,Mexico,Americas,126190788,0,0
-1/3/2020,Monaco,Europe,38682,0,0
-1/3/2020,Nepal,Asia,28087871,0,0
-1/3/2020,Netherlands,Europe,17231017,0,0
-1/3/2020,New Zealand,Asia,4885500,0,0
-1/3/2020,Nigeria,Africa,195874740,0,0
-1/3/2020,North Macedonia,Europe,2082958,0,0
-1/3/2020,Norway,Europe,5314336,0,0
-1/3/2020,Oman,Asia,4829483,0,0
-1/3/2020,Pakistan,Asia,212215030,0,0
-1/3/2020,Philippines,Asia,106651922,0,0
-1/3/2020,Qatar,Asia,2781677,0,0
-1/3/2020,Romania,Europe,19473936,0,0
-1/3/2020,Russia,Europe,144478050,0,0
-1/3/2020,San Marino,Europe,33785,0,0
-1/3/2020,Singapore,Asia,5638676,0,0
-1/3/2020,South Korea,Asia,51635256,0,0
-1/3/2020,Spain,Europe,46723749,0,0
-1/3/2020,Sri Lanka,Asia,21670000,0,0
-1/3/2020,Sweden,Europe,10183175,0,0
-1/3/2020,Switzerland,Europe,8516543,0,0
-1/3/2020,Taiwan,#N/A,23780452,0,0
-1/3/2020,Thailand,Asia,69428524,0,0
-1/3/2020,United Arab Emirates,Asia,9630959,0,0
-1/3/2020,United Kingdom,Europe,66488991,0,0
-1/3/2020,United States,Americas,327167434,0,0
-1/3/2020,Vietnam,Asia,95540395,0,0
-1/4/2020,Afghanistan,Asia,37172386,0,0
-1/4/2020,Algeria,Africa,42228429,0,0
-1/4/2020,Armenia,Europe,2951776,0,0
-1/4/2020,Australia,Asia,24992369,0,0
-1/4/2020,Austria,Europe,8847037,0,0
-1/4/2020,Azerbaijan,Europe,9942334,0,0
-1/4/2020,Bahrain,Asia,1569439,0,0
-1/4/2020,Belarus,Europe,9485386,0,0
-1/4/2020,Belgium,Europe,11422068,0,0
-1/4/2020,Brazil,Americas,209469333,0,0
-1/4/2020,Cambodia,Asia,16249798,0,0
-1/4/2020,Canada,Americas,37058856,0,0
-1/4/2020,Japan,Asia,3000,0,0
-1/4/2020,China,Asia,1392730000,44,0
-1/4/2020,Croatia,Europe,4089400,0,0
-1/4/2020,Czech Republic,Europe,10625695,0,0
-1/4/2020,Denmark,Europe,5797446,0,0
-1/4/2020,Dominican Republic,Americas,10627165,0,0
-1/4/2020,Ecuador,Americas,17084357,0,0
-1/4/2020,Egypt,Africa,98423595,0,0
-1/4/2020,Estonia,Europe,1320884,0,0
-1/4/2020,Finland,Europe,5518050,0,0
-1/4/2020,France,Europe,66987244,0,0
-1/4/2020,Georgia,Europe,3731000,0,0
-1/4/2020,Germany,Europe,82927922,0,0
-1/4/2020,Greece,Europe,10727668,0,0
-1/4/2020,Iceland,Europe,353574,0,0
-1/4/2020,India,Asia,1352617328,0,0
-1/4/2020,Indonesia,Asia,267663435,0,0
-1/4/2020,Iran,Asia,81800269,0,0
-1/4/2020,Iraq,Asia,38433600,0,0
-1/4/2020,Ireland,Europe,4853506,0,0
-1/4/2020,Israel,Asia,8883800,0,0
-1/4/2020,Italy,Europe,60431283,0,0
-1/4/2020,Japan,Asia,126529100,0,0
-1/4/2020,Kuwait,Asia,4137309,0,0
-1/4/2020,Lebanon,Asia,6848925,0,0
-1/4/2020,Lithuania,Europe,2789533,0,0
-1/4/2020,Luxembourg,Europe,607728,0,0
-1/4/2020,Malaysia,Asia,31528585,0,0
-1/4/2020,Mexico,Americas,126190788,0,0
-1/4/2020,Monaco,Europe,38682,0,0
-1/4/2020,Nepal,Asia,28087871,0,0
-1/4/2020,Netherlands,Europe,17231017,0,0
-1/4/2020,New Zealand,Asia,4885500,0,0
-1/4/2020,Nigeria,Africa,195874740,0,0
-1/4/2020,North Macedonia,Europe,2082958,0,0
-1/4/2020,Norway,Europe,5314336,0,0
-1/4/2020,Oman,Asia,4829483,0,0
-1/4/2020,Pakistan,Asia,212215030,0,0
-1/4/2020,Philippines,Asia,106651922,0,0
-1/4/2020,Qatar,Asia,2781677,0,0
-1/4/2020,Romania,Europe,19473936,0,0
-1/4/2020,Russia,Europe,144478050,0,0
-1/4/2020,San Marino,Europe,33785,0,0
-1/4/2020,Singapore,Asia,5638676,0,0
-1/4/2020,South Korea,Asia,51635256,0,0
-1/4/2020,Spain,Europe,46723749,0,0
-1/4/2020,Sri Lanka,Asia,21670000,0,0
-1/4/2020,Sweden,Europe,10183175,0,0
-1/4/2020,Switzerland,Europe,8516543,0,0
-1/4/2020,Taiwan,#N/A,23780452,0,0
-1/4/2020,Thailand,Asia,69428524,0,0
-1/4/2020,United Arab Emirates,Asia,9630959,0,0
-1/4/2020,United Kingdom,Europe,66488991,0,0
-1/4/2020,United States,Americas,327167434,0,0
-1/4/2020,Vietnam,Asia,95540395,0,0
-1/5/2020,Afghanistan,Asia,37172386,0,0
-1/5/2020,Algeria,Africa,42228429,0,0
-1/5/2020,Armenia,Europe,2951776,0,0
-1/5/2020,Australia,Asia,24992369,0,0
-1/5/2020,Austria,Europe,8847037,0,0
-1/5/2020,Azerbaijan,Europe,9942334,0,0
-1/5/2020,Bahrain,Asia,1569439,0,0
-1/5/2020,Belarus,Europe,9485386,0,0
-1/5/2020,Belgium,Europe,11422068,0,0
-1/5/2020,Brazil,Americas,209469333,0,0
-1/5/2020,Cambodia,Asia,16249798,0,0
-1/5/2020,Canada,Americas,37058856,0,0
-1/5/2020,Japan,Asia,3000,0,0
-1/5/2020,China,Asia,1392730000,59,0
-1/5/2020,Croatia,Europe,4089400,0,0
-1/5/2020,Czech Republic,Europe,10625695,0,0
-1/5/2020,Denmark,Europe,5797446,0,0
-1/5/2020,Dominican Republic,Americas,10627165,0,0
-1/5/2020,Ecuador,Americas,17084357,0,0
-1/5/2020,Egypt,Africa,98423595,0,0
-1/5/2020,Estonia,Europe,1320884,0,0
-1/5/2020,Finland,Europe,5518050,0,0
-1/5/2020,France,Europe,66987244,0,0
-1/5/2020,Georgia,Europe,3731000,0,0
-1/5/2020,Germany,Europe,82927922,0,0
-1/5/2020,Greece,Europe,10727668,0,0
-1/5/2020,Iceland,Europe,353574,0,0
-1/5/2020,India,Asia,1352617328,0,0
-1/5/2020,Indonesia,Asia,267663435,0,0
-1/5/2020,Iran,Asia,81800269,0,0
-1/5/2020,Iraq,Asia,38433600,0,0
-1/5/2020,Ireland,Europe,4853506,0,0
-1/5/2020,Israel,Asia,8883800,0,0
-1/5/2020,Italy,Europe,60431283,0,0
-1/5/2020,Japan,Asia,126529100,0,0
-1/5/2020,Kuwait,Asia,4137309,0,0
-1/5/2020,Lebanon,Asia,6848925,0,0
-1/5/2020,Lithuania,Europe,2789533,0,0
-1/5/2020,Luxembourg,Europe,607728,0,0
-1/5/2020,Malaysia,Asia,31528585,0,0
-1/5/2020,Mexico,Americas,126190788,0,0
-1/5/2020,Monaco,Europe,38682,0,0
-1/5/2020,Nepal,Asia,28087871,0,0
-1/5/2020,Netherlands,Europe,17231017,0,0
-1/5/2020,New Zealand,Asia,4885500,0,0
-1/5/2020,Nigeria,Africa,195874740,0,0
-1/5/2020,North Macedonia,Europe,2082958,0,0
-1/5/2020,Norway,Europe,5314336,0,0
-1/5/2020,Oman,Asia,4829483,0,0
-1/5/2020,Pakistan,Asia,212215030,0,0
-1/5/2020,Philippines,Asia,106651922,0,0
-1/5/2020,Qatar,Asia,2781677,0,0
-1/5/2020,Romania,Europe,19473936,0,0
-1/5/2020,Russia,Europe,144478050,0,0
-1/5/2020,San Marino,Europe,33785,0,0
-1/5/2020,Singapore,Asia,5638676,0,0
-1/5/2020,South Korea,Asia,51635256,0,0
-1/5/2020,Spain,Europe,46723749,0,0
-1/5/2020,Sri Lanka,Asia,21670000,0,0
-1/5/2020,Sweden,Europe,10183175,0,0
-1/5/2020,Switzerland,Europe,8516543,0,0
-1/5/2020,Taiwan,#N/A,23780452,0,0
-1/5/2020,Thailand,Asia,69428524,0,0
-1/5/2020,United Arab Emirates,Asia,9630959,0,0
-1/5/2020,United Kingdom,Europe,66488991,0,0
-1/5/2020,United States,Americas,327167434,0,0
-1/5/2020,Vietnam,Asia,95540395,0,0
-1/6/2020,Afghanistan,Asia,37172386,0,0
-1/6/2020,Algeria,Africa,42228429,0,0
-1/6/2020,Armenia,Europe,2951776,0,0
-1/6/2020,Australia,Asia,24992369,0,0
-1/6/2020,Austria,Europe,8847037,0,0
-1/6/2020,Azerbaijan,Europe,9942334,0,0
-1/6/2020,Bahrain,Asia,1569439,0,0
-1/6/2020,Belarus,Europe,9485386,0,0
-1/6/2020,Belgium,Europe,11422068,0,0
-1/6/2020,Brazil,Americas,209469333,0,0
-1/6/2020,Cambodia,Asia,16249798,0,0
-1/6/2020,Canada,Americas,37058856,0,0
-1/6/2020,Japan,Asia,3000,0,0
-1/6/2020,China,Asia,1392730000,59,0
-1/6/2020,Croatia,Europe,4089400,0,0
-1/6/2020,Czech Republic,Europe,10625695,0,0
-1/6/2020,Denmark,Europe,5797446,0,0
-1/6/2020,Dominican Republic,Americas,10627165,0,0
-1/6/2020,Ecuador,Americas,17084357,0,0
-1/6/2020,Egypt,Africa,98423595,0,0
-1/6/2020,Estonia,Europe,1320884,0,0
-1/6/2020,Finland,Europe,5518050,0,0
-1/6/2020,France,Europe,66987244,0,0
-1/6/2020,Georgia,Europe,3731000,0,0
-1/6/2020,Germany,Europe,82927922,0,0
-1/6/2020,Greece,Europe,10727668,0,0
-1/6/2020,Iceland,Europe,353574,0,0
-1/6/2020,India,Asia,1352617328,0,0
-1/6/2020,Indonesia,Asia,267663435,0,0
-1/6/2020,Iran,Asia,81800269,0,0
-1/6/2020,Iraq,Asia,38433600,0,0
-1/6/2020,Ireland,Europe,4853506,0,0
-1/6/2020,Israel,Asia,8883800,0,0
-1/6/2020,Italy,Europe,60431283,0,0
-1/6/2020,Japan,Asia,126529100,0,0
-1/6/2020,Kuwait,Asia,4137309,0,0
-1/6/2020,Lebanon,Asia,6848925,0,0
-1/6/2020,Lithuania,Europe,2789533,0,0
-1/6/2020,Luxembourg,Europe,607728,0,0
-1/6/2020,Malaysia,Asia,31528585,0,0
-1/6/2020,Mexico,Americas,126190788,0,0
-1/6/2020,Monaco,Europe,38682,0,0
-1/6/2020,Nepal,Asia,28087871,0,0
-1/6/2020,Netherlands,Europe,17231017,0,0
-1/6/2020,New Zealand,Asia,4885500,0,0
-1/6/2020,Nigeria,Africa,195874740,0,0
-1/6/2020,North Macedonia,Europe,2082958,0,0
-1/6/2020,Norway,Europe,5314336,0,0
-1/6/2020,Oman,Asia,4829483,0,0
-1/6/2020,Pakistan,Asia,212215030,0,0
-1/6/2020,Philippines,Asia,106651922,0,0
-1/6/2020,Qatar,Asia,2781677,0,0
-1/6/2020,Romania,Europe,19473936,0,0
-1/6/2020,Russia,Europe,144478050,0,0
-1/6/2020,San Marino,Europe,33785,0,0
-1/6/2020,Singapore,Asia,5638676,0,0
-1/6/2020,South Korea,Asia,51635256,0,0
-1/6/2020,Spain,Europe,46723749,0,0
-1/6/2020,Sri Lanka,Asia,21670000,0,0
-1/6/2020,Sweden,Europe,10183175,0,0
-1/6/2020,Switzerland,Europe,8516543,0,0
-1/6/2020,Taiwan,#N/A,23780452,0,0
-1/6/2020,Thailand,Asia,69428524,0,0
-1/6/2020,United Arab Emirates,Asia,9630959,0,0
-1/6/2020,United Kingdom,Europe,66488991,0,0
-1/6/2020,United States,Americas,327167434,0,0
-1/6/2020,Vietnam,Asia,95540395,0,0
-1/7/2020,Afghanistan,Asia,37172386,0,0
-1/7/2020,Algeria,Africa,42228429,0,0
-1/7/2020,Armenia,Europe,2951776,0,0
-1/7/2020,Australia,Asia,24992369,0,0
-1/7/2020,Austria,Europe,8847037,0,0
-1/7/2020,Azerbaijan,Europe,9942334,0,0
-1/7/2020,Bahrain,Asia,1569439,0,0
-1/7/2020,Belarus,Europe,9485386,0,0
-1/7/2020,Belgium,Europe,11422068,0,0
-1/7/2020,Brazil,Americas,209469333,0,0
-1/7/2020,Cambodia,Asia,16249798,0,0
-1/7/2020,Canada,Americas,37058856,0,0
-1/7/2020,Japan,Asia,3000,0,0
-1/7/2020,China,Asia,1392730000,59,0
-1/7/2020,Croatia,Europe,4089400,0,0
-1/7/2020,Czech Republic,Europe,10625695,0,0
-1/7/2020,Denmark,Europe,5797446,0,0
-1/7/2020,Dominican Republic,Americas,10627165,0,0
-1/7/2020,Ecuador,Americas,17084357,0,0
-1/7/2020,Egypt,Africa,98423595,0,0
-1/7/2020,Estonia,Europe,1320884,0,0
-1/7/2020,Finland,Europe,5518050,0,0
-1/7/2020,France,Europe,66987244,0,0
-1/7/2020,Georgia,Europe,3731000,0,0
-1/7/2020,Germany,Europe,82927922,0,0
-1/7/2020,Greece,Europe,10727668,0,0
-1/7/2020,Iceland,Europe,353574,0,0
-1/7/2020,India,Asia,1352617328,0,0
-1/7/2020,Indonesia,Asia,267663435,0,0
-1/7/2020,Iran,Asia,81800269,0,0
-1/7/2020,Iraq,Asia,38433600,0,0
-1/7/2020,Ireland,Europe,4853506,0,0
-1/7/2020,Israel,Asia,8883800,0,0
-1/7/2020,Italy,Europe,60431283,0,0
-1/7/2020,Japan,Asia,126529100,0,0
-1/7/2020,Kuwait,Asia,4137309,0,0
-1/7/2020,Lebanon,Asia,6848925,0,0
-1/7/2020,Lithuania,Europe,2789533,0,0
-1/7/2020,Luxembourg,Europe,607728,0,0
-1/7/2020,Malaysia,Asia,31528585,0,0
-1/7/2020,Mexico,Americas,126190788,0,0
-1/7/2020,Monaco,Europe,38682,0,0
-1/7/2020,Nepal,Asia,28087871,0,0
-1/7/2020,Netherlands,Europe,17231017,0,0
-1/7/2020,New Zealand,Asia,4885500,0,0
-1/7/2020,Nigeria,Africa,195874740,0,0
-1/7/2020,North Macedonia,Europe,2082958,0,0
-1/7/2020,Norway,Europe,5314336,0,0
-1/7/2020,Oman,Asia,4829483,0,0
-1/7/2020,Pakistan,Asia,212215030,0,0
-1/7/2020,Philippines,Asia,106651922,0,0
-1/7/2020,Qatar,Asia,2781677,0,0
-1/7/2020,Romania,Europe,19473936,0,0
-1/7/2020,Russia,Europe,144478050,0,0
-1/7/2020,San Marino,Europe,33785,0,0
-1/7/2020,Singapore,Asia,5638676,0,0
-1/7/2020,South Korea,Asia,51635256,0,0
-1/7/2020,Spain,Europe,46723749,0,0
-1/7/2020,Sri Lanka,Asia,21670000,0,0
-1/7/2020,Sweden,Europe,10183175,0,0
-1/7/2020,Switzerland,Europe,8516543,0,0
-1/7/2020,Taiwan,#N/A,23780452,0,0
-1/7/2020,Thailand,Asia,69428524,0,0
-1/7/2020,United Arab Emirates,Asia,9630959,0,0
-1/7/2020,United Kingdom,Europe,66488991,0,0
-1/7/2020,United States,Americas,327167434,0,0
-1/7/2020,Vietnam,Asia,95540395,0,0
-1/8/2020,Afghanistan,Asia,37172386,0,0
-1/8/2020,Algeria,Africa,42228429,0,0
-1/8/2020,Armenia,Europe,2951776,0,0
-1/8/2020,Australia,Asia,24992369,0,0
-1/8/2020,Austria,Europe,8847037,0,0
-1/8/2020,Azerbaijan,Europe,9942334,0,0
-1/8/2020,Bahrain,Asia,1569439,0,0
-1/8/2020,Belarus,Europe,9485386,0,0
-1/8/2020,Belgium,Europe,11422068,0,0
-1/8/2020,Brazil,Americas,209469333,0,0
-1/8/2020,Cambodia,Asia,16249798,0,0
-1/8/2020,Canada,Americas,37058856,0,0
-1/8/2020,Japan,Asia,3000,0,0
-1/8/2020,China,Asia,1392730000,59,0
-1/8/2020,Croatia,Europe,4089400,0,0
-1/8/2020,Czech Republic,Europe,10625695,0,0
-1/8/2020,Denmark,Europe,5797446,0,0
-1/8/2020,Dominican Republic,Americas,10627165,0,0
-1/8/2020,Ecuador,Americas,17084357,0,0
-1/8/2020,Egypt,Africa,98423595,0,0
-1/8/2020,Estonia,Europe,1320884,0,0
-1/8/2020,Finland,Europe,5518050,0,0
-1/8/2020,France,Europe,66987244,0,0
-1/8/2020,Georgia,Europe,3731000,0,0
-1/8/2020,Germany,Europe,82927922,0,0
-1/8/2020,Greece,Europe,10727668,0,0
-1/8/2020,Iceland,Europe,353574,0,0
-1/8/2020,India,Asia,1352617328,0,0
-1/8/2020,Indonesia,Asia,267663435,0,0
-1/8/2020,Iran,Asia,81800269,0,0
-1/8/2020,Iraq,Asia,38433600,0,0
-1/8/2020,Ireland,Europe,4853506,0,0
-1/8/2020,Israel,Asia,8883800,0,0
-1/8/2020,Italy,Europe,60431283,0,0
-1/8/2020,Japan,Asia,126529100,0,0
-1/8/2020,Kuwait,Asia,4137309,0,0
-1/8/2020,Lebanon,Asia,6848925,0,0
-1/8/2020,Lithuania,Europe,2789533,0,0
-1/8/2020,Luxembourg,Europe,607728,0,0
-1/8/2020,Malaysia,Asia,31528585,0,0
-1/8/2020,Mexico,Americas,126190788,0,0
-1/8/2020,Monaco,Europe,38682,0,0
-1/8/2020,Nepal,Asia,28087871,0,0
-1/8/2020,Netherlands,Europe,17231017,0,0
-1/8/2020,New Zealand,Asia,4885500,0,0
-1/8/2020,Nigeria,Africa,195874740,0,0
-1/8/2020,North Macedonia,Europe,2082958,0,0
-1/8/2020,Norway,Europe,5314336,0,0
-1/8/2020,Oman,Asia,4829483,0,0
-1/8/2020,Pakistan,Asia,212215030,0,0
-1/8/2020,Philippines,Asia,106651922,0,0
-1/8/2020,Qatar,Asia,2781677,0,0
-1/8/2020,Romania,Europe,19473936,0,0
-1/8/2020,Russia,Europe,144478050,0,0
-1/8/2020,San Marino,Europe,33785,0,0
-1/8/2020,Singapore,Asia,5638676,0,0
-1/8/2020,South Korea,Asia,51635256,0,0
-1/8/2020,Spain,Europe,46723749,0,0
-1/8/2020,Sri Lanka,Asia,21670000,0,0
-1/8/2020,Sweden,Europe,10183175,0,0
-1/8/2020,Switzerland,Europe,8516543,0,0
-1/8/2020,Taiwan,#N/A,23780452,0,0
-1/8/2020,Thailand,Asia,69428524,0,0
-1/8/2020,United Arab Emirates,Asia,9630959,0,0
-1/8/2020,United Kingdom,Europe,66488991,0,0
-1/8/2020,United States,Americas,327167434,0,0
-1/8/2020,Vietnam,Asia,95540395,0,0
-1/9/2020,Afghanistan,Asia,37172386,0,0
-1/9/2020,Algeria,Africa,42228429,0,0
-1/9/2020,Armenia,Europe,2951776,0,0
-1/9/2020,Australia,Asia,24992369,0,0
-1/9/2020,Austria,Europe,8847037,0,0
-1/9/2020,Azerbaijan,Europe,9942334,0,0
-1/9/2020,Bahrain,Asia,1569439,0,0
-1/9/2020,Belarus,Europe,9485386,0,0
-1/9/2020,Belgium,Europe,11422068,0,0
-1/9/2020,Brazil,Americas,209469333,0,0
-1/9/2020,Cambodia,Asia,16249798,0,0
-1/9/2020,Canada,Americas,37058856,0,0
-1/9/2020,Japan,Asia,3000,0,0
-1/9/2020,China,Asia,1392730000,59,0
-1/9/2020,Croatia,Europe,4089400,0,0
-1/9/2020,Czech Republic,Europe,10625695,0,0
-1/9/2020,Denmark,Europe,5797446,0,0
-1/9/2020,Dominican Republic,Americas,10627165,0,0
-1/9/2020,Ecuador,Americas,17084357,0,0
-1/9/2020,Egypt,Africa,98423595,0,0
-1/9/2020,Estonia,Europe,1320884,0,0
-1/9/2020,Finland,Europe,5518050,0,0
-1/9/2020,France,Europe,66987244,0,0
-1/9/2020,Georgia,Europe,3731000,0,0
-1/9/2020,Germany,Europe,82927922,0,0
-1/9/2020,Greece,Europe,10727668,0,0
-1/9/2020,Iceland,Europe,353574,0,0
-1/9/2020,India,Asia,1352617328,0,0
-1/9/2020,Indonesia,Asia,267663435,0,0
-1/9/2020,Iran,Asia,81800269,0,0
-1/9/2020,Iraq,Asia,38433600,0,0
-1/9/2020,Ireland,Europe,4853506,0,0
-1/9/2020,Israel,Asia,8883800,0,0
-1/9/2020,Italy,Europe,60431283,0,0
-1/9/2020,Japan,Asia,126529100,0,0
-1/9/2020,Kuwait,Asia,4137309,0,0
-1/9/2020,Lebanon,Asia,6848925,0,0
-1/9/2020,Lithuania,Europe,2789533,0,0
-1/9/2020,Luxembourg,Europe,607728,0,0
-1/9/2020,Malaysia,Asia,31528585,0,0
-1/9/2020,Mexico,Americas,126190788,0,0
-1/9/2020,Monaco,Europe,38682,0,0
-1/9/2020,Nepal,Asia,28087871,0,0
-1/9/2020,Netherlands,Europe,17231017,0,0
-1/9/2020,New Zealand,Asia,4885500,0,0
-1/9/2020,Nigeria,Africa,195874740,0,0
-1/9/2020,North Macedonia,Europe,2082958,0,0
-1/9/2020,Norway,Europe,5314336,0,0
-1/9/2020,Oman,Asia,4829483,0,0
-1/9/2020,Pakistan,Asia,212215030,0,0
-1/9/2020,Philippines,Asia,106651922,0,0
-1/9/2020,Qatar,Asia,2781677,0,0
-1/9/2020,Romania,Europe,19473936,0,0
-1/9/2020,Russia,Europe,144478050,0,0
-1/9/2020,San Marino,Europe,33785,0,0
-1/9/2020,Singapore,Asia,5638676,0,0
-1/9/2020,South Korea,Asia,51635256,0,0
-1/9/2020,Spain,Europe,46723749,0,0
-1/9/2020,Sri Lanka,Asia,21670000,0,0
-1/9/2020,Sweden,Europe,10183175,0,0
-1/9/2020,Switzerland,Europe,8516543,0,0
-1/9/2020,Taiwan,#N/A,23780452,0,0
-1/9/2020,Thailand,Asia,69428524,0,0
-1/9/2020,United Arab Emirates,Asia,9630959,0,0
-1/9/2020,United Kingdom,Europe,66488991,0,0
-1/9/2020,United States,Americas,327167434,0,0
-1/9/2020,Vietnam,Asia,95540395,0,0
-1/10/2020,Afghanistan,Asia,37172386,0,0
-1/10/2020,Algeria,Africa,42228429,0,0
-1/10/2020,Armenia,Europe,2951776,0,0
-1/10/2020,Australia,Asia,24992369,0,0
-1/10/2020,Austria,Europe,8847037,0,0
-1/10/2020,Azerbaijan,Europe,9942334,0,0
-1/10/2020,Bahrain,Asia,1569439,0,0
-1/10/2020,Belarus,Europe,9485386,0,0
-1/10/2020,Belgium,Europe,11422068,0,0
-1/10/2020,Brazil,Americas,209469333,0,0
-1/10/2020,Cambodia,Asia,16249798,0,0
-1/10/2020,Canada,Americas,37058856,0,0
-1/10/2020,Japan,Asia,3000,0,0
-1/10/2020,China,Asia,1392730000,59,0
-1/10/2020,Croatia,Europe,4089400,0,0
-1/10/2020,Czech Republic,Europe,10625695,0,0
-1/10/2020,Denmark,Europe,5797446,0,0
-1/10/2020,Dominican Republic,Americas,10627165,0,0
-1/10/2020,Ecuador,Americas,17084357,0,0
-1/10/2020,Egypt,Africa,98423595,0,0
-1/10/2020,Estonia,Europe,1320884,0,0
-1/10/2020,Finland,Europe,5518050,0,0
-1/10/2020,France,Europe,66987244,0,0
-1/10/2020,Georgia,Europe,3731000,0,0
-1/10/2020,Germany,Europe,82927922,0,0
-1/10/2020,Greece,Europe,10727668,0,0
-1/10/2020,Iceland,Europe,353574,0,0
-1/10/2020,India,Asia,1352617328,0,0
-1/10/2020,Indonesia,Asia,267663435,0,0
-1/10/2020,Iran,Asia,81800269,0,0
-1/10/2020,Iraq,Asia,38433600,0,0
-1/10/2020,Ireland,Europe,4853506,0,0
-1/10/2020,Israel,Asia,8883800,0,0
-1/10/2020,Italy,Europe,60431283,0,0
-1/10/2020,Japan,Asia,126529100,0,0
-1/10/2020,Kuwait,Asia,4137309,0,0
-1/10/2020,Lebanon,Asia,6848925,0,0
-1/10/2020,Lithuania,Europe,2789533,0,0
-1/10/2020,Luxembourg,Europe,607728,0,0
-1/10/2020,Malaysia,Asia,31528585,0,0
-1/10/2020,Mexico,Americas,126190788,0,0
-1/10/2020,Monaco,Europe,38682,0,0
-1/10/2020,Nepal,Asia,28087871,0,0
-1/10/2020,Netherlands,Europe,17231017,0,0
-1/10/2020,New Zealand,Asia,4885500,0,0
-1/10/2020,Nigeria,Africa,195874740,0,0
-1/10/2020,North Macedonia,Europe,2082958,0,0
-1/10/2020,Norway,Europe,5314336,0,0
-1/10/2020,Oman,Asia,4829483,0,0
-1/10/2020,Pakistan,Asia,212215030,0,0
-1/10/2020,Philippines,Asia,106651922,0,0
-1/10/2020,Qatar,Asia,2781677,0,0
-1/10/2020,Romania,Europe,19473936,0,0
-1/10/2020,Russia,Europe,144478050,0,0
-1/10/2020,San Marino,Europe,33785,0,0
-1/10/2020,Singapore,Asia,5638676,0,0
-1/10/2020,South Korea,Asia,51635256,0,0
-1/10/2020,Spain,Europe,46723749,0,0
-1/10/2020,Sri Lanka,Asia,21670000,0,0
-1/10/2020,Sweden,Europe,10183175,0,0
-1/10/2020,Switzerland,Europe,8516543,0,0
-1/10/2020,Taiwan,#N/A,23780452,0,0
-1/10/2020,Thailand,Asia,69428524,0,0
-1/10/2020,United Arab Emirates,Asia,9630959,0,0
-1/10/2020,United Kingdom,Europe,66488991,0,0
-1/10/2020,United States,Americas,327167434,0,0
-1/10/2020,Vietnam,Asia,95540395,0,0
-1/11/2020,Afghanistan,Asia,37172386,0,0
-1/11/2020,Algeria,Africa,42228429,0,0
-1/11/2020,Armenia,Europe,2951776,0,0
-1/11/2020,Australia,Asia,24992369,0,0
-1/11/2020,Austria,Europe,8847037,0,0
-1/11/2020,Azerbaijan,Europe,9942334,0,0
-1/11/2020,Bahrain,Asia,1569439,0,0
-1/11/2020,Belarus,Europe,9485386,0,0
-1/11/2020,Belgium,Europe,11422068,0,0
-1/11/2020,Brazil,Americas,209469333,0,0
-1/11/2020,Cambodia,Asia,16249798,0,0
-1/11/2020,Canada,Americas,37058856,0,0
-1/11/2020,Japan,Asia,3000,0,0
-1/11/2020,China,Asia,1392730000,59,1
-1/11/2020,Croatia,Europe,4089400,0,0
-1/11/2020,Czech Republic,Europe,10625695,0,0
-1/11/2020,Denmark,Europe,5797446,0,0
-1/11/2020,Dominican Republic,Americas,10627165,0,0
-1/11/2020,Ecuador,Americas,17084357,0,0
-1/11/2020,Egypt,Africa,98423595,0,0
-1/11/2020,Estonia,Europe,1320884,0,0
-1/11/2020,Finland,Europe,5518050,0,0
-1/11/2020,France,Europe,66987244,0,0
-1/11/2020,Georgia,Europe,3731000,0,0
-1/11/2020,Germany,Europe,82927922,0,0
-1/11/2020,Greece,Europe,10727668,0,0
-1/11/2020,Iceland,Europe,353574,0,0
-1/11/2020,India,Asia,1352617328,0,0
-1/11/2020,Indonesia,Asia,267663435,0,0
-1/11/2020,Iran,Asia,81800269,0,0
-1/11/2020,Iraq,Asia,38433600,0,0
-1/11/2020,Ireland,Europe,4853506,0,0
-1/11/2020,Israel,Asia,8883800,0,0
-1/11/2020,Italy,Europe,60431283,0,0
-1/11/2020,Japan,Asia,126529100,0,0
-1/11/2020,Kuwait,Asia,4137309,0,0
-1/11/2020,Lebanon,Asia,6848925,0,0
-1/11/2020,Lithuania,Europe,2789533,0,0
-1/11/2020,Luxembourg,Europe,607728,0,0
-1/11/2020,Malaysia,Asia,31528585,0,0
-1/11/2020,Mexico,Americas,126190788,0,0
-1/11/2020,Monaco,Europe,38682,0,0
-1/11/2020,Nepal,Asia,28087871,0,0
-1/11/2020,Netherlands,Europe,17231017,0,0
-1/11/2020,New Zealand,Asia,4885500,0,0
-1/11/2020,Nigeria,Africa,195874740,0,0
-1/11/2020,North Macedonia,Europe,2082958,0,0
-1/11/2020,Norway,Europe,5314336,0,0
-1/11/2020,Oman,Asia,4829483,0,0
-1/11/2020,Pakistan,Asia,212215030,0,0
-1/11/2020,Philippines,Asia,106651922,0,0
-1/11/2020,Qatar,Asia,2781677,0,0
-1/11/2020,Romania,Europe,19473936,0,0
-1/11/2020,Russia,Europe,144478050,0,0
-1/11/2020,San Marino,Europe,33785,0,0
-1/11/2020,Singapore,Asia,5638676,0,0
-1/11/2020,South Korea,Asia,51635256,0,0
-1/11/2020,Spain,Europe,46723749,0,0
-1/11/2020,Sri Lanka,Asia,21670000,0,0
-1/11/2020,Sweden,Europe,10183175,0,0
-1/11/2020,Switzerland,Europe,8516543,0,0
-1/11/2020,Taiwan,#N/A,23780452,0,0
-1/11/2020,Thailand,Asia,69428524,0,0
-1/11/2020,United Arab Emirates,Asia,9630959,0,0
-1/11/2020,United Kingdom,Europe,66488991,0,0
-1/11/2020,United States,Americas,327167434,0,0
-1/11/2020,Vietnam,Asia,95540395,0,0
-1/12/2020,Afghanistan,Asia,37172386,0,0
-1/12/2020,Algeria,Africa,42228429,0,0
-1/12/2020,Armenia,Europe,2951776,0,0
-1/12/2020,Australia,Asia,24992369,0,0
-1/12/2020,Austria,Europe,8847037,0,0
-1/12/2020,Azerbaijan,Europe,9942334,0,0
-1/12/2020,Bahrain,Asia,1569439,0,0
-1/12/2020,Belarus,Europe,9485386,0,0
-1/12/2020,Belgium,Europe,11422068,0,0
-1/12/2020,Brazil,Americas,209469333,0,0
-1/12/2020,Cambodia,Asia,16249798,0,0
-1/12/2020,Canada,Americas,37058856,0,0
-1/12/2020,Japan,Asia,3000,0,0
-1/12/2020,China,Asia,1392730000,59,1
-1/12/2020,Croatia,Europe,4089400,0,0
-1/12/2020,Czech Republic,Europe,10625695,0,0
-1/12/2020,Denmark,Europe,5797446,0,0
-1/12/2020,Dominican Republic,Americas,10627165,0,0
-1/12/2020,Ecuador,Americas,17084357,0,0
-1/12/2020,Egypt,Africa,98423595,0,0
-1/12/2020,Estonia,Europe,1320884,0,0
-1/12/2020,Finland,Europe,5518050,0,0
-1/12/2020,France,Europe,66987244,0,0
-1/12/2020,Georgia,Europe,3731000,0,0
-1/12/2020,Germany,Europe,82927922,0,0
-1/12/2020,Greece,Europe,10727668,0,0
-1/12/2020,Iceland,Europe,353574,0,0
-1/12/2020,India,Asia,1352617328,0,0
-1/12/2020,Indonesia,Asia,267663435,0,0
-1/12/2020,Iran,Asia,81800269,0,0
-1/12/2020,Iraq,Asia,38433600,0,0
-1/12/2020,Ireland,Europe,4853506,0,0
-1/12/2020,Israel,Asia,8883800,0,0
-1/12/2020,Italy,Europe,60431283,0,0
-1/12/2020,Japan,Asia,126529100,0,0
-1/12/2020,Kuwait,Asia,4137309,0,0
-1/12/2020,Lebanon,Asia,6848925,0,0
-1/12/2020,Lithuania,Europe,2789533,0,0
-1/12/2020,Luxembourg,Europe,607728,0,0
-1/12/2020,Malaysia,Asia,31528585,0,0
-1/12/2020,Mexico,Americas,126190788,0,0
-1/12/2020,Monaco,Europe,38682,0,0
-1/12/2020,Nepal,Asia,28087871,0,0
-1/12/2020,Netherlands,Europe,17231017,0,0
-1/12/2020,New Zealand,Asia,4885500,0,0
-1/12/2020,Nigeria,Africa,195874740,0,0
-1/12/2020,North Macedonia,Europe,2082958,0,0
-1/12/2020,Norway,Europe,5314336,0,0
-1/12/2020,Oman,Asia,4829483,0,0
-1/12/2020,Pakistan,Asia,212215030,0,0
-1/12/2020,Philippines,Asia,106651922,0,0
-1/12/2020,Qatar,Asia,2781677,0,0
-1/12/2020,Romania,Europe,19473936,0,0
-1/12/2020,Russia,Europe,144478050,0,0
-1/12/2020,San Marino,Europe,33785,0,0
-1/12/2020,Singapore,Asia,5638676,0,0
-1/12/2020,South Korea,Asia,51635256,0,0
-1/12/2020,Spain,Europe,46723749,0,0
-1/12/2020,Sri Lanka,Asia,21670000,0,0
-1/12/2020,Sweden,Europe,10183175,0,0
-1/12/2020,Switzerland,Europe,8516543,0,0
-1/12/2020,Taiwan,#N/A,23780452,0,0
-1/12/2020,Thailand,Asia,69428524,0,0
-1/12/2020,United Arab Emirates,Asia,9630959,0,0
-1/12/2020,United Kingdom,Europe,66488991,0,0
-1/12/2020,United States,Americas,327167434,0,0
-1/12/2020,Vietnam,Asia,95540395,0,0
-1/13/2020,Afghanistan,Asia,37172386,0,0
-1/13/2020,Algeria,Africa,42228429,0,0
-1/13/2020,Armenia,Europe,2951776,0,0
-1/13/2020,Australia,Asia,24992369,0,0
-1/13/2020,Austria,Europe,8847037,0,0
-1/13/2020,Azerbaijan,Europe,9942334,0,0
-1/13/2020,Bahrain,Asia,1569439,0,0
-1/13/2020,Belarus,Europe,9485386,0,0
-1/13/2020,Belgium,Europe,11422068,0,0
-1/13/2020,Brazil,Americas,209469333,0,0
-1/13/2020,Cambodia,Asia,16249798,0,0
-1/13/2020,Canada,Americas,37058856,0,0
-1/13/2020,Japan,Asia,3000,0,0
-1/13/2020,China,Asia,1392730000,59,1
-1/13/2020,Croatia,Europe,4089400,0,0
-1/13/2020,Czech Republic,Europe,10625695,0,0
-1/13/2020,Denmark,Europe,5797446,0,0
-1/13/2020,Dominican Republic,Americas,10627165,0,0
-1/13/2020,Ecuador,Americas,17084357,0,0
-1/13/2020,Egypt,Africa,98423595,0,0
-1/13/2020,Estonia,Europe,1320884,0,0
-1/13/2020,Finland,Europe,5518050,0,0
-1/13/2020,France,Europe,66987244,0,0
-1/13/2020,Georgia,Europe,3731000,0,0
-1/13/2020,Germany,Europe,82927922,0,0
-1/13/2020,Greece,Europe,10727668,0,0
-1/13/2020,Iceland,Europe,353574,0,0
-1/13/2020,India,Asia,1352617328,0,0
-1/13/2020,Indonesia,Asia,267663435,0,0
-1/13/2020,Iran,Asia,81800269,0,0
-1/13/2020,Iraq,Asia,38433600,0,0
-1/13/2020,Ireland,Europe,4853506,0,0
-1/13/2020,Israel,Asia,8883800,0,0
-1/13/2020,Italy,Europe,60431283,0,0
-1/13/2020,Japan,Asia,126529100,0,0
-1/13/2020,Kuwait,Asia,4137309,0,0
-1/13/2020,Lebanon,Asia,6848925,0,0
-1/13/2020,Lithuania,Europe,2789533,0,0
-1/13/2020,Luxembourg,Europe,607728,0,0
-1/13/2020,Malaysia,Asia,31528585,0,0
-1/13/2020,Mexico,Americas,126190788,0,0
-1/13/2020,Monaco,Europe,38682,0,0
-1/13/2020,Nepal,Asia,28087871,0,0
-1/13/2020,Netherlands,Europe,17231017,0,0
-1/13/2020,New Zealand,Asia,4885500,0,0
-1/13/2020,Nigeria,Africa,195874740,0,0
-1/13/2020,North Macedonia,Europe,2082958,0,0
-1/13/2020,Norway,Europe,5314336,0,0
-1/13/2020,Oman,Asia,4829483,0,0
-1/13/2020,Pakistan,Asia,212215030,0,0
-1/13/2020,Philippines,Asia,106651922,0,0
-1/13/2020,Qatar,Asia,2781677,0,0
-1/13/2020,Romania,Europe,19473936,0,0
-1/13/2020,Russia,Europe,144478050,0,0
-1/13/2020,San Marino,Europe,33785,0,0
-1/13/2020,Singapore,Asia,5638676,0,0
-1/13/2020,South Korea,Asia,51635256,0,0
-1/13/2020,Spain,Europe,46723749,0,0
-1/13/2020,Sri Lanka,Asia,21670000,0,0
-1/13/2020,Sweden,Europe,10183175,0,0
-1/13/2020,Switzerland,Europe,8516543,0,0
-1/13/2020,Taiwan,#N/A,23780452,0,0
-1/13/2020,Thailand,Asia,69428524,1,0
-1/13/2020,United Arab Emirates,Asia,9630959,0,0
-1/13/2020,United Kingdom,Europe,66488991,0,0
-1/13/2020,United States,Americas,327167434,0,0
-1/13/2020,Vietnam,Asia,95540395,0,0
-1/14/2020,Afghanistan,Asia,37172386,0,0
-1/14/2020,Algeria,Africa,42228429,0,0
-1/14/2020,Armenia,Europe,2951776,0,0
-1/14/2020,Australia,Asia,24992369,0,0
-1/14/2020,Austria,Europe,8847037,0,0
-1/14/2020,Azerbaijan,Europe,9942334,0,0
-1/14/2020,Bahrain,Asia,1569439,0,0
-1/14/2020,Belarus,Europe,9485386,0,0
-1/14/2020,Belgium,Europe,11422068,0,0
-1/14/2020,Brazil,Americas,209469333,0,0
-1/14/2020,Cambodia,Asia,16249798,0,0
-1/14/2020,Canada,Americas,37058856,0,0
-1/14/2020,Japan,Asia,3000,0,0
-1/14/2020,China,Asia,1392730000,59,1
-1/14/2020,Croatia,Europe,4089400,0,0
-1/14/2020,Czech Republic,Europe,10625695,0,0
-1/14/2020,Denmark,Europe,5797446,0,0
-1/14/2020,Dominican Republic,Americas,10627165,0,0
-1/14/2020,Ecuador,Americas,17084357,0,0
-1/14/2020,Egypt,Africa,98423595,0,0
-1/14/2020,Estonia,Europe,1320884,0,0
-1/14/2020,Finland,Europe,5518050,0,0
-1/14/2020,France,Europe,66987244,0,0
-1/14/2020,Georgia,Europe,3731000,0,0
-1/14/2020,Germany,Europe,82927922,0,0
-1/14/2020,Greece,Europe,10727668,0,0
-1/14/2020,Iceland,Europe,353574,0,0
-1/14/2020,India,Asia,1352617328,0,0
-1/14/2020,Indonesia,Asia,267663435,0,0
-1/14/2020,Iran,Asia,81800269,0,0
-1/14/2020,Iraq,Asia,38433600,0,0
-1/14/2020,Ireland,Europe,4853506,0,0
-1/14/2020,Israel,Asia,8883800,0,0
-1/14/2020,Italy,Europe,60431283,0,0
-1/14/2020,Japan,Asia,126529100,0,0
-1/14/2020,Kuwait,Asia,4137309,0,0
-1/14/2020,Lebanon,Asia,6848925,0,0
-1/14/2020,Lithuania,Europe,2789533,0,0
-1/14/2020,Luxembourg,Europe,607728,0,0
-1/14/2020,Malaysia,Asia,31528585,0,0
-1/14/2020,Mexico,Americas,126190788,0,0
-1/14/2020,Monaco,Europe,38682,0,0
-1/14/2020,Nepal,Asia,28087871,0,0
-1/14/2020,Netherlands,Europe,17231017,0,0
-1/14/2020,New Zealand,Asia,4885500,0,0
-1/14/2020,Nigeria,Africa,195874740,0,0
-1/14/2020,North Macedonia,Europe,2082958,0,0
-1/14/2020,Norway,Europe,5314336,0,0
-1/14/2020,Oman,Asia,4829483,0,0
-1/14/2020,Pakistan,Asia,212215030,0,0
-1/14/2020,Philippines,Asia,106651922,0,0
-1/14/2020,Qatar,Asia,2781677,0,0
-1/14/2020,Romania,Europe,19473936,0,0
-1/14/2020,Russia,Europe,144478050,0,0
-1/14/2020,San Marino,Europe,33785,0,0
-1/14/2020,Singapore,Asia,5638676,0,0
-1/14/2020,South Korea,Asia,51635256,0,0
-1/14/2020,Spain,Europe,46723749,0,0
-1/14/2020,Sri Lanka,Asia,21670000,0,0
-1/14/2020,Sweden,Europe,10183175,0,0
-1/14/2020,Switzerland,Europe,8516543,0,0
-1/14/2020,Taiwan,#N/A,23780452,0,0
-1/14/2020,Thailand,Asia,69428524,1,0
-1/14/2020,United Arab Emirates,Asia,9630959,0,0
-1/14/2020,United Kingdom,Europe,66488991,0,0
-1/14/2020,United States,Americas,327167434,0,0
-1/14/2020,Vietnam,Asia,95540395,0,0
 1/15/2020,Afghanistan,Asia,37172386,0,0
 1/15/2020,Algeria,Africa,42228429,0,0
 1/15/2020,Armenia,Europe,2951776,0,0
@@ -4811,7 +3807,7 @@ date,country,continent,population,cases,deaths
 3/12/2020,Taiwan,#N/A,23780452,48,1
 3/12/2020,Thailand,Asia,69428524,70,1
 3/12/2020,Tunisia,Africa,11565204,7,0
-3/12/2020,Turkey,Asia,82319724,1,0
+3/12/2020,Turkey,Europe,82319724,1,0
 3/12/2020,United Kingdom,Europe,66488991,456,6
 3/12/2020,United States,Americas,327167434,1312,30
 3/12/2020,Vietnam,Asia,95540395,39,0
@@ -4900,7 +3896,7 @@ date,country,continent,population,cases,deaths
 3/13/2020,Taiwan,#N/A,23780452,49,1
 3/13/2020,Trinidad and Tobago,Americas,1389858,1,0
 3/13/2020,Tunisia,Africa,11565204,13,0
-3/13/2020,Turkey,Asia,82319724,2,0
+3/13/2020,Turkey,Europe,82319724,2,0
 3/13/2020,Ukraine,Europe,44622516,3,0
 3/13/2020,United Arab Emirates,Asia,9630959,85,0
 3/13/2020,United Kingdom,Europe,66488991,590,10
@@ -5241,7 +4237,7 @@ date,country,continent,population,cases,deaths
 3/16/2020,Togo,Africa,7889094,1,0
 3/16/2020,Trinidad and Tobago,Americas,1389858,4,0
 3/16/2020,Tunisia,Africa,11565204,18,0
-3/16/2020,Turkey,Asia,82319724,18,0
+3/16/2020,Turkey,Europe,82319724,18,0
 3/16/2020,Ukraine,Europe,44622516,3,0
 3/16/2020,United Arab Emirates,Asia,9630959,86,0
 3/16/2020,United Kingdom,Europe,66488991,1391,35
@@ -5378,11 +4374,11 @@ date,country,continent,population,cases,deaths
 3/17/2020,Togo,Africa,7889094,1,0
 3/17/2020,Trinidad and Tobago,Americas,1389858,5,0
 3/17/2020,Tunisia,Africa,11565204,20,0
-3/17/2020,Turkey,Asia,82319724,47,0
+3/17/2020,Turkey,Europe,82319724,47,0
 3/17/2020,Ukraine,Europe,44622516,5,0
 3/17/2020,United Arab Emirates,Asia,9630959,98,0
 3/17/2020,United Kingdom,Europe,66488991,1543,55
-3/17/2020,United Republic of Tanzania,#N/A,56318348,1,0
+3/17/2020,United Republic of Tanzania,Africa,56318348,1,0
 3/17/2020,United States,Americas,327167434,4661,85
 3/17/2020,Uruguay,Americas,3449299,29,0
 3/17/2020,Uzbekistan,Asia,32955400,8,0
@@ -5520,11 +4516,11 @@ date,country,continent,population,cases,deaths
 3/18/2020,Togo,Africa,7889094,1,0
 3/18/2020,Trinidad and Tobago,Americas,1389858,7,0
 3/18/2020,Tunisia,Africa,11565204,24,0
-3/18/2020,Turkey,Asia,82319724,98,0
+3/18/2020,Turkey,Europe,82319724,98,0
 3/18/2020,Ukraine,Europe,44622516,14,0
 3/18/2020,United Arab Emirates,Asia,9630959,113,0
 3/18/2020,United Kingdom,Europe,66488991,1950,60
-3/18/2020,United Republic of Tanzania,#N/A,56318348,1,0
+3/18/2020,United Republic of Tanzania,Africa,56318348,1,0
 3/18/2020,United States,Americas,327167434,6427,108
 3/18/2020,Uruguay,Americas,3449299,50,0
 3/18/2020,Uzbekistan,Asia,32955400,16,0
@@ -5668,11 +4664,11 @@ date,country,continent,population,cases,deaths
 3/19/2020,Togo,Africa,7889094,1,0
 3/19/2020,Trinidad and Tobago,Americas,1389858,9,0
 3/19/2020,Tunisia,Africa,11565204,29,0
-3/19/2020,Turkey,Asia,82319724,191,1
+3/19/2020,Turkey,Europe,82319724,191,1
 3/19/2020,Ukraine,Europe,44622516,19,2
 3/19/2020,United Arab Emirates,Asia,9630959,113,0
 3/19/2020,United Kingdom,Europe,66488991,2630,103
-3/19/2020,United Republic of Tanzania,#N/A,56318348,3,0
+3/19/2020,United Republic of Tanzania,Africa,56318348,3,0
 3/19/2020,United States,Americas,327167434,9415,150
 3/19/2020,Uruguay,Americas,3449299,79,0
 3/19/2020,Uzbekistan,Asia,32955400,23,0
@@ -5831,11 +4827,11 @@ date,country,continent,population,cases,deaths
 3/20/2020,Togo,Africa,7889094,1,0
 3/20/2020,Trinidad and Tobago,Americas,1389858,9,0
 3/20/2020,Tunisia,Africa,11565204,39,0
-3/20/2020,Turkey,Asia,82319724,359,4
+3/20/2020,Turkey,Europe,82319724,359,4
 3/20/2020,Ukraine,Europe,44622516,26,2
 3/20/2020,United Arab Emirates,Asia,9630959,140,0
 3/20/2020,United Kingdom,Europe,66488991,3277,144
-3/20/2020,United Republic of Tanzania,#N/A,56318348,3,0
+3/20/2020,United Republic of Tanzania,Africa,56318348,3,0
 3/20/2020,United States,Americas,327167434,14250,150
 3/20/2020,Uruguay,Americas,3449299,94,0
 3/20/2020,Uzbekistan,Asia,32955400,23,0
@@ -6001,11 +4997,11 @@ date,country,continent,population,cases,deaths
 3/21/2020,Togo,Africa,7889094,9,0
 3/21/2020,Trinidad and Tobago,Americas,1389858,9,0
 3/21/2020,Tunisia,Africa,11565204,54,1
-3/21/2020,Turkey,Asia,82319724,670,9
+3/21/2020,Turkey,Europe,82319724,670,9
 3/21/2020,Ukraine,Europe,44622516,26,3
 3/21/2020,United Arab Emirates,Asia,9630959,140,0
 3/21/2020,United Kingdom,Europe,66488991,3983,177
-3/21/2020,United Republic of Tanzania,#N/A,56318348,3,0
+3/21/2020,United Republic of Tanzania,Africa,56318348,3,0
 3/21/2020,United States,Americas,327167434,19624,260
 3/21/2020,Uruguay,Americas,3449299,110,0
 3/21/2020,Uzbekistan,Asia,32955400,33,0
@@ -6175,12 +5171,12 @@ date,country,continent,population,cases,deaths
 3/22/2020,Togo,Africa,7889094,15,0
 3/22/2020,Trinidad and Tobago,Americas,1389858,49,0
 3/22/2020,Tunisia,Africa,11565204,60,1
-3/22/2020,Turkey,Asia,82319724,947,21
+3/22/2020,Turkey,Europe,82319724,947,21
 3/22/2020,Uganda,Africa,42723139,1,0
 3/22/2020,Ukraine,Europe,44622516,41,3
 3/22/2020,United Arab Emirates,Asia,9630959,153,2
 3/22/2020,United Kingdom,Europe,66488991,5018,233
-3/22/2020,United Republic of Tanzania,#N/A,56318348,6,0
+3/22/2020,United Republic of Tanzania,Africa,56318348,6,0
 3/22/2020,United States,Americas,327167434,26747,340
 3/22/2020,Uruguay,Americas,3449299,135,0
 3/22/2020,Uzbekistan,Asia,32955400,33,0
@@ -6354,12 +5350,12 @@ date,country,continent,population,cases,deaths
 3/23/2020,Togo,Africa,7889094,15,0
 3/23/2020,Trinidad and Tobago,Americas,1389858,50,0
 3/23/2020,Tunisia,Africa,11565204,75,3
-3/23/2020,Turkey,Asia,82319724,1236,30
+3/23/2020,Turkey,Europe,82319724,1236,30
 3/23/2020,Uganda,Africa,42723139,1,0
 3/23/2020,Ukraine,Europe,44622516,47,3
 3/23/2020,United Arab Emirates,Asia,9630959,153,2
 3/23/2020,United Kingdom,Europe,66488991,5683,281
-3/23/2020,United Republic of Tanzania,#N/A,56318348,12,0
+3/23/2020,United Republic of Tanzania,Africa,56318348,12,0
 3/23/2020,United States,Americas,327167434,35206,471
 3/23/2020,Uruguay,Americas,3449299,158,0
 3/23/2020,Uzbekistan,Asia,32955400,46,0
@@ -6537,12 +5533,12 @@ date,country,continent,population,cases,deaths
 3/24/2020,Togo,Africa,7889094,18,0
 3/24/2020,Trinidad and Tobago,Americas,1389858,51,0
 3/24/2020,Tunisia,Africa,11565204,89,3
-3/24/2020,Turkey,Asia,82319724,1529,37
+3/24/2020,Turkey,Europe,82319724,1529,37
 3/24/2020,Uganda,Africa,42723139,9,0
 3/24/2020,Ukraine,Europe,44622516,73,3
 3/24/2020,United Arab Emirates,Asia,9630959,198,2
 3/24/2020,United Kingdom,Europe,66488991,6650,335
-3/24/2020,United Republic of Tanzania,#N/A,56318348,12,0
+3/24/2020,United Republic of Tanzania,Africa,56318348,12,0
 3/24/2020,United States,Americas,327167434,46442,590
 3/24/2020,United States Virgin Islands,#N/A,106977,17,0
 3/24/2020,Uruguay,Americas,3449299,162,0
@@ -6723,13 +5719,13 @@ date,country,continent,population,cases,deaths
 3/25/2020,Togo,Africa,7889094,18,0
 3/25/2020,Trinidad and Tobago,Americas,1389858,57,0
 3/25/2020,Tunisia,Africa,11565204,114,3
-3/25/2020,Turkey,Asia,82319724,1872,44
-3/25/2020,Turks and Caicos islands,#N/A,31458,1,0
+3/25/2020,Turkey,Europe,82319724,1872,44
+3/25/2020,Turks and Caicos islands,Americas,31458,1,0
 3/25/2020,Uganda,Africa,42723139,9,0
 3/25/2020,Ukraine,Europe,44622516,84,3
 3/25/2020,United Arab Emirates,Asia,9630959,248,2
 3/25/2020,United Kingdom,Europe,66488991,8077,422
-3/25/2020,United Republic of Tanzania,#N/A,56318348,12,0
+3/25/2020,United Republic of Tanzania,Africa,56318348,12,0
 3/25/2020,United States,Americas,327167434,55231,801
 3/25/2020,United States Virgin Islands,#N/A,106977,17,0
 3/25/2020,Uruguay,Americas,3449299,189,0
@@ -6914,13 +5910,13 @@ date,country,continent,population,cases,deaths
 3/26/2020,Togo,Africa,7889094,23,0
 3/26/2020,Trinidad and Tobago,Americas,1389858,60,1
 3/26/2020,Tunisia,Africa,11565204,173,5
-3/26/2020,Turkey,Asia,82319724,2433,59
-3/26/2020,Turks and Caicos islands,#N/A,31458,1,0
+3/26/2020,Turkey,Europe,82319724,2433,59
+3/26/2020,Turks and Caicos islands,Americas,31458,1,0
 3/26/2020,Uganda,Africa,42723139,14,0
 3/26/2020,Ukraine,Europe,44622516,113,4
 3/26/2020,United Arab Emirates,Asia,9630959,333,2
 3/26/2020,United Kingdom,Europe,66488991,9529,463
-3/26/2020,United Republic of Tanzania,#N/A,56318348,12,0
+3/26/2020,United Republic of Tanzania,Africa,56318348,12,0
 3/26/2020,United States,Americas,327167434,69194,1050
 3/26/2020,United States Virgin Islands,#N/A,106977,17,0
 3/26/2020,Uruguay,Americas,3449299,217,0
@@ -7108,13 +6104,13 @@ date,country,continent,population,cases,deaths
 3/27/2020,Togo,Africa,7889094,24,0
 3/27/2020,Trinidad and Tobago,Americas,1389858,65,1
 3/27/2020,Tunisia,Africa,11565204,173,5
-3/27/2020,Turkey,Asia,82319724,3629,75
-3/27/2020,Turks and Caicos islands,#N/A,31458,2,0
+3/27/2020,Turkey,Europe,82319724,3629,75
+3/27/2020,Turks and Caicos islands,Americas,31458,2,0
 3/27/2020,Uganda,Africa,42723139,14,0
 3/27/2020,Ukraine,Europe,44622516,156,5
 3/27/2020,United Arab Emirates,Asia,9630959,333,2
 3/27/2020,United Kingdom,Europe,66488991,11658,578
-3/27/2020,United Republic of Tanzania,#N/A,56318348,13,0
+3/27/2020,United Republic of Tanzania,Africa,56318348,13,0
 3/27/2020,United States,Americas,327167434,85991,1296
 3/27/2020,United States Virgin Islands,#N/A,106977,17,0
 3/27/2020,Uruguay,Americas,3449299,238,0
@@ -7303,13 +6299,13 @@ date,country,continent,population,cases,deaths
 3/28/2020,Togo,Africa,7889094,25,1
 3/28/2020,Trinidad and Tobago,Americas,1389858,66,2
 3/28/2020,Tunisia,Africa,11565204,227,6
-3/28/2020,Turkey,Asia,82319724,5698,92
-3/28/2020,Turks and Caicos islands,#N/A,31458,2,0
+3/28/2020,Turkey,Europe,82319724,5698,92
+3/28/2020,Turks and Caicos islands,Americas,31458,2,0
 3/28/2020,Uganda,Africa,42723139,14,0
 3/28/2020,Ukraine,Europe,44622516,218,5
 3/28/2020,United Arab Emirates,Asia,9630959,405,2
 3/28/2020,United Kingdom,Europe,66488991,14543,759
-3/28/2020,United Republic of Tanzania,#N/A,56318348,13,0
+3/28/2020,United Republic of Tanzania,Africa,56318348,13,0
 3/28/2020,United States,Americas,327167434,104686,1707
 3/28/2020,United States Virgin Islands,#N/A,106977,19,0
 3/28/2020,Uruguay,Americas,3449299,238,0
@@ -7498,13 +6494,13 @@ date,country,continent,population,cases,deaths
 3/29/2020,Togo,Africa,7889094,28,1
 3/29/2020,Trinidad and Tobago,Americas,1389858,74,2
 3/29/2020,Tunisia,Africa,11565204,227,6
-3/29/2020,Turkey,Asia,82319724,7402,108
-3/29/2020,Turks and Caicos islands,#N/A,31458,5,0
+3/29/2020,Turkey,Europe,82319724,7402,108
+3/29/2020,Turks and Caicos islands,Americas,31458,5,0
 3/29/2020,Uganda,Africa,42723139,30,0
 3/29/2020,Ukraine,Europe,44622516,311,8
 3/29/2020,United Arab Emirates,Asia,9630959,468,2
 3/29/2020,United Kingdom,Europe,66488991,17089,1019
-3/29/2020,United Republic of Tanzania,#N/A,56318348,13,1
+3/29/2020,United Republic of Tanzania,Africa,56318348,13,1
 3/29/2020,United States,Americas,327167434,124665,2191
 3/29/2020,United States Virgin Islands,#N/A,106977,22,0
 3/29/2020,Uruguay,Americas,3449299,304,0
@@ -7693,13 +6689,13 @@ date,country,continent,population,cases,deaths
 3/30/2020,Togo,Africa,7889094,30,1
 3/30/2020,Trinidad and Tobago,Americas,1389858,78,3
 3/30/2020,Tunisia,Africa,11565204,278,8
-3/30/2020,Turkey,Asia,82319724,9217,131
-3/30/2020,Turks and Caicos islands,#N/A,31458,5,0
+3/30/2020,Turkey,Europe,82319724,9217,131
+3/30/2020,Turks and Caicos islands,Americas,31458,5,0
 3/30/2020,Uganda,Africa,42723139,33,0
 3/30/2020,Ukraine,Europe,44622516,418,9
 3/30/2020,United Arab Emirates,Asia,9630959,468,2
 3/30/2020,United Kingdom,Europe,66488991,19522,1228
-3/30/2020,United Republic of Tanzania,#N/A,56318348,14,1
+3/30/2020,United Republic of Tanzania,Africa,56318348,14,1
 3/30/2020,United States,Americas,327167434,143025,2509
 3/30/2020,United States Virgin Islands,#N/A,106977,30,0
 3/30/2020,Uruguay,Americas,3449299,309,1
@@ -7888,13 +6884,13 @@ date,country,continent,population,cases,deaths
 3/31/2020,Togo,Africa,7889094,34,1
 3/31/2020,Trinidad and Tobago,Americas,1389858,85,3
 3/31/2020,Tunisia,Africa,11565204,312,8
-3/31/2020,Turkey,Asia,82319724,11535,168
-3/31/2020,Turks and Caicos islands,#N/A,31458,5,0
+3/31/2020,Turkey,Europe,82319724,11535,168
+3/31/2020,Turks and Caicos islands,Americas,31458,5,0
 3/31/2020,Uganda,Africa,42723139,33,0
 3/31/2020,Ukraine,Europe,44622516,480,11
 3/31/2020,United Arab Emirates,Asia,9630959,611,5
 3/31/2020,United Kingdom,Europe,66488991,22141,1408
-3/31/2020,United Republic of Tanzania,#N/A,56318348,19,1
+3/31/2020,United Republic of Tanzania,Africa,56318348,19,1
 3/31/2020,United States,Americas,327167434,164620,3170
 3/31/2020,Uruguay,Americas,3449299,320,1
 3/31/2020,Uzbekistan,Asia,32955400,149,2
@@ -7902,3 +6898,370 @@ date,country,continent,population,cases,deaths
 3/31/2020,Vietnam,Asia,95540395,229,0
 3/31/2020,Zambia,Africa,17351822,35,0
 3/31/2020,Zimbabwe,Africa,14439018,7,1
+4/1/2020,Afghanistan,Asia,37172386,237,4
+4/1/2020,Albania,Europe,2866376,259,15
+4/1/2020,Algeria,Africa,42228429,847,58
+4/1/2020,Andorra,Europe,77006,390,14
+4/1/2020,Angola,Africa,30809762,8,2
+4/1/2020,Antigua and Barbuda,Americas,96286,7,0
+4/1/2020,Argentina,Americas,44494502,1054,28
+4/1/2020,Armenia,Europe,2951776,571,4
+4/1/2020,Australia,Asia,24992369,4862,20
+4/1/2020,Austria,Europe,8847037,10711,146
+4/1/2020,Azerbaijan,Europe,9942334,359,5
+4/1/2020,Bahamas,Americas,385640,21,1
+4/1/2020,Bahrain,Asia,1569439,569,4
+4/1/2020,Bangladesh,Asia,161356039,54,6
+4/1/2020,Barbados,Americas,286641,34,0
+4/1/2020,Belarus,Europe,9485386,163,2
+4/1/2020,Belgium,Europe,11422068,13964,828
+4/1/2020,Benin,Africa,11485048,13,0
+4/1/2020,Bhutan,Asia,754394,4,0
+4/1/2020,Bolivia,Americas,11353142,115,7
+4/1/2020,Bosnia and Herzegovina,Europe,3323929,459,13
+4/1/2020,Brazil,Americas,209469333,6836,240
+4/1/2020,Brunei,Asia,#N/A,131,1
+4/1/2020,Bulgaria,Europe,7024216,422,10
+4/1/2020,Burkina Faso,Africa,19751535,282,16
+4/1/2020,Cabo Verde,Africa,#N/A,6,1
+4/1/2020,Cambodia,Asia,16249798,109,0
+4/1/2020,Cameroon,Africa,25216237,233,6
+4/1/2020,Central African Republic,Africa,4666377,3,0
+4/1/2020,Chad,Africa,15477751,7,0
+4/1/2020,Chile,Americas,18729160,3031,16
+4/1/2020,China,Asia,1392730000,82361,3316
+4/1/2020,Colombia,Americas,49648685,1065,17
+4/1/2020,Congo,Africa,5244363,19,0
+4/1/2020,DR Congo,Africa,84068091,109,9
+4/1/2020,Costa Rica,Americas,4999441,375,2
+4/1/2020,Cote d'Ivoire,Africa,25069229,190,1
+4/1/2020,Croatia,Europe,4089400,963,6
+4/1/2020,Diamond Princess,Americas,#N/A,712,11
+4/1/2020,Cuba,Americas,11338138,212,6
+4/1/2020,Cyprus,Europe,1189265,320,9
+4/1/2020,Czechia,Europe,#N/A,3508,39
+4/1/2020,Denmark,Europe,5797446,173,0
+4/1/2020,Denmark,Europe,5797446,10,0
+4/1/2020,Denmark,Europe,5797446,3107,104
+4/1/2020,Djibouti,Africa,958920,33,0
+4/1/2020,Dominican Republic,Americas,10627165,1284,57
+4/1/2020,Ecuador,Americas,17084357,2748,93
+4/1/2020,Egypt,Africa,98423595,779,52
+4/1/2020,El Salvador,Americas,6420744,32,1
+4/1/2020,Equatorial Guinea,Africa,1308974,15,0
+4/1/2020,Eritrea,Africa,0,15,0
+4/1/2020,Estonia,Europe,1320884,779,5
+4/1/2020,Eswatini,Africa,1367000,9,0
+4/1/2020,Ethiopia,Africa,109224559,29,0
+4/1/2020,Fiji,Asia,883483,5,0
+4/1/2020,Finland,Europe,5518050,1446,17
+4/1/2020,France,Europe,66987244,57749,4032
+4/1/2020,Gabon,Africa,2119275,18,1
+4/1/2020,Gambia,Africa,2280102,4,1
+4/1/2020,Georgia,Europe,3731000,117,0
+4/1/2020,Germany,Europe,82927922,77872,920
+4/1/2020,Ghana,Africa,29767108,195,5
+4/1/2020,Greece,Europe,10727668,1415,50
+4/1/2020,Guatemala,Americas,17247807,39,1
+4/1/2020,Guinea,Africa,12414318,30,0
+4/1/2020,Guyana,Americas,779004,19,2
+4/1/2020,Haiti,Americas,11123176,16,0
+4/1/2020,Holy See,Europe,1000,6,0
+4/1/2020,Honduras,Americas,9587522,172,10
+4/1/2020,Hungary,Europe,9768785,525,20
+4/1/2020,Iceland,Europe,353574,1220,2
+4/1/2020,India,Asia,1352617328,1998,58
+4/1/2020,Indonesia,Asia,267663435,1677,157
+4/1/2020,Iran,Asia,81800269,47593,3036
+4/1/2020,Iraq,Asia,38433600,728,52
+4/1/2020,Ireland,Europe,4853506,3447,85
+4/1/2020,Israel,Asia,8883800,6092,26
+4/1/2020,Italy,Europe,60431283,110574,13155
+4/1/2020,Jamaica,Americas,2934855,44,3
+4/1/2020,Japan,Asia,3000,2178,57
+4/1/2020,Jordan,Asia,9956011,278,5
+4/1/2020,Kazakhstan,Asia,18276499,380,3
+4/1/2020,Kenya,Africa,51393010,81,1
+4/1/2020,South Korea,Asia,51635256,9887,165
+4/1/2020,Kuwait,Asia,4137309,317,0
+4/1/2020,Kyrgyzstan,Asia,6315800,111,0
+4/1/2020,Latvia,Europe,1926542,446,0
+4/1/2020,Lebanon,Asia,6848925,479,14
+4/1/2020,Liberia,Africa,4818977,6,0
+4/1/2020,Liechtenstein,Europe,37910,68,0
+4/1/2020,Lithuania,Europe,2789533,581,8
+4/1/2020,Luxembourg,Europe,607728,2319,29
+4/1/2020,Madagascar,Africa,26262368,57,0
+4/1/2020,Malaysia,Asia,31528585,2908,45
+4/1/2020,Maldives,Asia,515696,19,0
+4/1/2020,Malta,Europe,483530,188,0
+4/1/2020,Mauritania,Africa,4403319,6,1
+4/1/2020,Mauritius,Africa,1265303,161,6
+4/1/2020,Mexico,Americas,126190788,1215,29
+4/1/2020,Moldova,Europe,3545883,423,5
+4/1/2020,Monaco,Europe,38682,55,1
+4/1/2020,Mongolia,Asia,3170208,14,0
+4/1/2020,Montenegro,Europe,622345,123,2
+4/1/2020,Morocco,Africa,36029138,654,39
+4/1/2020,Namibia,Africa,2448255,14,0
+4/1/2020,Nepal,Asia,28087871,5,0
+4/1/2020,Netherlands,Europe,17231017,55,0
+4/1/2020,Netherlands,Europe,17231017,11,1
+4/1/2020,Netherlands,Europe,17231017,16,1
+4/1/2020,Netherlands,Europe,17231017,13614,1173
+4/1/2020,New Zealand,Asia,4885500,708,1
+4/1/2020,Nicaragua,Americas,6465513,5,1
+4/1/2020,Niger,Africa,22442948,74,5
+4/1/2020,Nigeria,Africa,195874740,174,2
+4/1/2020,North Macedonia,Europe,2082958,354,11
+4/1/2020,Norway,Europe,5314336,4863,44
+4/1/2020,Oman,Asia,4829483,210,1
+4/1/2020,Pakistan,Asia,212215030,2118,27
+4/1/2020,Panama,Americas,4176873,1181,30
+4/1/2020,Papua New Guinea,Asia,8606316,1,0
+4/1/2020,Paraguay,Americas,6956071,69,3
+4/1/2020,Peru,Americas,31989256,1323,38
+4/1/2020,Philippines,Asia,106651922,2311,96
+4/1/2020,Poland,Europe,37978548,2554,43
+4/1/2020,Portugal,Europe,10281762,8251,187
+4/1/2020,Qatar,Asia,2781677,835,2
+4/1/2020,Romania,Europe,19473936,2460,92
+4/1/2020,Russia,Europe,144478050,2777,24
+4/1/2020,Rwanda,Africa,12301939,82,0
+4/1/2020,Saint Lucia,Americas,181889,13,0
+4/1/2020,Saint Vincent and the Grenadines,Americas,110210,1,0
+4/1/2020,San Marino,Europe,33785,236,26
+4/1/2020,Saudi Arabia,Asia,33699947,1720,16
+4/1/2020,Senegal,Africa,15854360,190,1
+4/1/2020,Serbia,Europe,6982084,1060,28
+4/1/2020,Seychelles,Africa,96762,10,0
+4/1/2020,Singapore,Asia,5638676,1000,3
+4/1/2020,Slovakia,Europe,5447011,400,1
+4/1/2020,Slovenia,Europe,2067372,841,15
+4/1/2020,Somalia,Africa,15008154,5,0
+4/1/2020,South Africa,Africa,57779622,1380,5
+4/1/2020,Spain,Europe,46723749,104118,9387
+4/1/2020,Sri Lanka,Asia,21670000,146,3
+4/1/2020,Sudan,Africa,41801533,7,2
+4/1/2020,Suriname,Americas,575991,10,0
+4/1/2020,Sweden,Europe,10183175,4947,239
+4/1/2020,Switzerland,Europe,8516543,17768,488
+4/1/2020,Taiwan*,Asia,23780452,329,5
+4/1/2020,Tanzania,Africa,#N/A,20,1
+4/1/2020,Thailand,Asia,69428524,1771,12
+4/1/2020,Togo,Africa,7889094,36,2
+4/1/2020,Trinidad and Tobago,Americas,1389858,90,5
+4/1/2020,Tunisia,Africa,11565204,423,12
+4/1/2020,Turkey,Europe,82319724,15679,277
+4/1/2020,Uganda,Africa,42723139,44,0
+4/1/2020,Ukraine,Europe,44622516,794,20
+4/1/2020,United Arab Emirates,Asia,9630959,814,8
+4/1/2020,Uruguay,Americas,3449299,338,2
+4/1/2020,United States,Americas,327167434,213372,4757
+4/1/2020,Uzbekistan,Asia,32955400,181,2
+4/1/2020,Venezuela,Americas,28870195,143,3
+4/1/2020,Vietnam,Asia,95540395,218,0
+4/1/2020,Zambia,Africa,17351822,36,0
+4/1/2020,Zimbabwe,Africa,14439018,8,1
+4/1/2020,Dominica,Americas,71625,12,0
+4/1/2020,Grenada,Americas,111454,9,0
+4/1/2020,Mozambique,Africa,29495962,10,0
+4/1/2020,Syria,Asia,16906283,10,2
+4/1/2020,Timor-Leste,#N/A,#N/A,1,0
+4/1/2020,Belize,Americas,383071,3,0
+4/1/2020,Laos,Asia,7061507,10,0
+4/1/2020,Libya,Africa,6678567,10,0
+4/1/2020,West Bank and Gaza,#N/A,#N/A,134,1
+4/1/2020,Guinea-Bissau,#N/A,#N/A,9,0
+4/1/2020,Mali,Africa,19077690,31,3
+4/1/2020,Saint Kitts and Nevis,Americas,52441,8,0
+4/1/2020,Canada,Americas,37058856,9560,109
+4/1/2020,Kosovo,Europe,1845300,125,1
+4/1/2020,Burma,#N/A,#N/A,15,1
+4/1/2020,United Kingdom,Europe,66488991,29865,2357
+4/1/2020,MS Zaandam,#N/A,#N/A,9,2
+4/1/2020,Botswana,#N/A,#N/A,4,1
+4/1/2020,Burundi,#N/A,#N/A,2,0
+4/1/2020,Sierra Leone,#N/A,#N/A,2,0
+4/1/2020,Malawi,#N/A,#N/A,0,0
+4/2/2020,Afghanistan,Asia,37172386,273,6
+4/2/2020,Albania,Europe,2866376,277,16
+4/2/2020,Algeria,Africa,42228429,986,86
+4/2/2020,Andorra,Europe,77006,428,15
+4/2/2020,Angola,Africa,30809762,8,2
+4/2/2020,Antigua and Barbuda,Americas,96286,9,0
+4/2/2020,Argentina,Americas,44494502,1133,36
+4/2/2020,Armenia,Europe,2951776,663,7
+4/2/2020,Australia,Asia,24992369,5116,24
+4/2/2020,Austria,Europe,8847037,11129,158
+4/2/2020,Azerbaijan,Europe,9942334,400,5
+4/2/2020,Bahamas,Americas,385640,24,1
+4/2/2020,Bahrain,Asia,1569439,643,4
+4/2/2020,Bangladesh,Asia,161356039,56,6
+4/2/2020,Barbados,Americas,286641,46,0
+4/2/2020,Belarus,Europe,9485386,304,4
+4/2/2020,Belgium,Europe,11422068,15348,1011
+4/2/2020,Benin,Africa,11485048,13,0
+4/2/2020,Bhutan,Asia,754394,5,0
+4/2/2020,Bolivia,Americas,11353142,123,8
+4/2/2020,Bosnia and Herzegovina,Europe,3323929,533,16
+4/2/2020,Brazil,Americas,209469333,8044,324
+4/2/2020,Brunei,#N/A,#N/A,133,1
+4/2/2020,Bulgaria,Europe,7024216,457,10
+4/2/2020,Burkina Faso,Africa,19751535,288,16
+4/2/2020,Cabo Verde,#N/A,#N/A,6,1
+4/2/2020,Cambodia,Asia,16249798,110,0
+4/2/2020,Cameroon,Africa,25216237,306,7
+4/2/2020,Central African Republic,Africa,4666377,3,0
+4/2/2020,Chad,Africa,15477751,8,0
+4/2/2020,Chile,Americas,18729160,3404,18
+4/2/2020,China,Asia,1392730000,82432,3289
+4/2/2020,Colombia,Americas,49648685,1161,19
+4/2/2020,Congo,Africa,5244363,22,2
+4/2/2020,DR Congo ,Africa,#N/A,134,13
+4/2/2020,Costa Rica,Americas,4999441,396,2
+4/2/2020,Cote d'Ivoire,Africa,25069229,194,1
+4/2/2020,Croatia,Europe,4089400,1011,7
+4/2/2020,Diamond Princess,#N/A,#N/A,712,11
+4/2/2020,Cuba,Americas,11338138,233,6
+4/2/2020,Cyprus,Europe,1189265,356,10
+4/2/2020,Czechia,#N/A,#N/A,3858,44
+4/2/2020,Denmark,Europe,5797446,3573,123
+4/2/2020,Djibouti,Africa,958920,40,0
+4/2/2020,Dominican Republic,Americas,10627165,1380,60
+4/2/2020,Ecuador,Americas,17084357,3163,120
+4/2/2020,Egypt,Africa,98423595,865,58
+4/2/2020,El Salvador,Americas,6420744,41,2
+4/2/2020,Equatorial Guinea,Africa,1308974,15,0
+4/2/2020,Eritrea,Africa,0,22,0
+4/2/2020,Estonia,Europe,1320884,858,11
+4/2/2020,Eswatini,Africa,1367000,9,0
+4/2/2020,Ethiopia,Africa,109224559,29,0
+4/2/2020,Fiji,Asia,883483,7,0
+4/2/2020,Finland,Europe,5518050,1518,19
+4/2/2020,France,Europe,66987244,59929,5398
+4/2/2020,Gabon,Africa,2119275,21,1
+4/2/2020,Gambia,Africa,2280102,4,1
+4/2/2020,Georgia,Europe,3731000,134,0
+4/2/2020,Germany,Europe,82927922,84794,1107
+4/2/2020,Ghana,Africa,29767108,204,5
+4/2/2020,Greece,Europe,10727668,1544,53
+4/2/2020,Guatemala,Americas,17247807,47,1
+4/2/2020,Guinea,Africa,12414318,52,0
+4/2/2020,Guyana,Americas,779004,19,4
+4/2/2020,Haiti,Americas,11123176,16,0
+4/2/2020,Holy See,#N/A,1000,7,0
+4/2/2020,Honduras,Americas,9587522,219,14
+4/2/2020,Hungary,Europe,9768785,585,21
+4/2/2020,Iceland,Europe,353574,1319,4
+4/2/2020,India,Asia,1352617328,2543,72
+4/2/2020,Indonesia,Asia,267663435,1790,170
+4/2/2020,Iran,Asia,81800269,50468,3160
+4/2/2020,Iraq,Asia,38433600,772,54
+4/2/2020,Ireland,Europe,4853506,3849,98
+4/2/2020,Israel,Asia,8883800,6857,36
+4/2/2020,Italy,Europe,60431283,115242,13915
+4/2/2020,Jamaica,Americas,2934855,47,3
+4/2/2020,Japan,Asia,3000,2495,62
+4/2/2020,Jordan,Asia,9956011,299,5
+4/2/2020,Kazakhstan,Asia,18276499,435,3
+4/2/2020,Kenya,Africa,51393010,110,3
+4/2/2020,South Korea,Asia,51635256,9976,169
+4/2/2020,Kuwait,Asia,4137309,342,0
+4/2/2020,Kyrgyzstan,Asia,6315800,116,0
+4/2/2020,Latvia,Europe,1926542,458,0
+4/2/2020,Lebanon,Asia,6848925,494,16
+4/2/2020,Liberia,Africa,4818977,6,0
+4/2/2020,Liechtenstein,Europe,37910,75,0
+4/2/2020,Lithuania,Europe,2789533,649,9
+4/2/2020,Luxembourg,Europe,607728,2487,30
+4/2/2020,Madagascar,Africa,26262368,59,0
+4/2/2020,Malaysia,Asia,31528585,3116,50
+4/2/2020,Maldives,Asia,515696,19,0
+4/2/2020,Malta,Europe,483530,196,0
+4/2/2020,Mauritania,Africa,4403319,6,1
+4/2/2020,Mauritius,Africa,1265303,169,7
+4/2/2020,Mexico,Americas,126190788,1378,37
+4/2/2020,Moldova,Europe,3545883,505,6
+4/2/2020,Monaco,Europe,38682,60,1
+4/2/2020,Mongolia,Asia,3170208,14,0
+4/2/2020,Montenegro,Europe,622345,144,2
+4/2/2020,Morocco,Africa,36029138,708,44
+4/2/2020,Namibia,Africa,2448255,14,0
+4/2/2020,Nepal,Asia,28087871,6,0
+4/2/2020,Netherlands,Europe,17231017,14786,1339
+4/2/2020,New Zealand,Asia,4885500,797,1
+4/2/2020,Nicaragua,Americas,6465513,5,1
+4/2/2020,Niger,Africa,22442948,98,5
+4/2/2020,Nigeria,Africa,195874740,184,2
+4/2/2020,North Macedonia,Europe,2082958,384,11
+4/2/2020,Norway,Europe,5314336,5147,50
+4/2/2020,Oman,Asia,4829483,231,1
+4/2/2020,Pakistan,Asia,212215030,2421,34
+4/2/2020,Panama,Americas,4176873,1317,32
+4/2/2020,Papua New Guinea,Asia,8606316,1,0
+4/2/2020,Paraguay,Americas,6956071,77,3
+4/2/2020,Peru,Americas,31989256,1414,55
+4/2/2020,Philippines,Asia,106651922,2633,107
+4/2/2020,Poland,Europe,37978548,2946,57
+4/2/2020,Portugal,Europe,10281762,9034,209
+4/2/2020,Qatar,Asia,2781677,949,3
+4/2/2020,Romania,Europe,19473936,2738,115
+4/2/2020,Russia,Europe,144478050,3548,30
+4/2/2020,Rwanda,Africa,12301939,84,0
+4/2/2020,Saint Lucia,Americas,181889,13,0
+4/2/2020,Saint Vincent and the Grenadines,Americas,110210,2,0
+4/2/2020,San Marino,Europe,33785,245,30
+4/2/2020,Saudi Arabia,Asia,33699947,1885,21
+4/2/2020,Senegal,Africa,15854360,195,1
+4/2/2020,Serbia,Europe,6982084,1171,31
+4/2/2020,Seychelles,Africa,96762,10,0
+4/2/2020,Singapore,Asia,5638676,1049,4
+4/2/2020,Slovakia,Europe,5447011,426,1
+4/2/2020,Slovenia,Europe,2067372,897,17
+4/2/2020,Somalia,Africa,15008154,5,0
+4/2/2020,South Africa,Africa,57779622,1462,5
+4/2/2020,Spain,Europe,46723749,112065,10348
+4/2/2020,Sri Lanka,Asia,21670000,151,4
+4/2/2020,Sudan,Africa,41801533,8,2
+4/2/2020,Suriname,Americas,575991,10,0
+4/2/2020,Sweden,Europe,10183175,5568,308
+4/2/2020,Switzerland,Europe,8516543,18827,536
+4/2/2020,Taiwan*,Asia,23780452,339,5
+4/2/2020,Tanzania,#N/A,#N/A,20,1
+4/2/2020,Thailand,Asia,69428524,1875,15
+4/2/2020,Togo,Africa,7889094,39,2
+4/2/2020,Trinidad and Tobago,Americas,1389858,94,5
+4/2/2020,Tunisia,Africa,11565204,455,14
+4/2/2020,Turkey,Europe,82319724,18135,356
+4/2/2020,Uganda,Africa,42723139,45,0
+4/2/2020,Ukraine,Europe,44622516,897,22
+4/2/2020,United Arab Emirates,Asia,9630959,1024,8
+4/2/2020,Uruguay,Americas,3449299,350,4
+4/2/2020,United States,Americas,327167434,243453,5926
+4/2/2020,Uzbekistan,Asia,32955400,205,2
+4/2/2020,Venezuela,Americas,28870195,146,5
+4/2/2020,Vietnam,Asia,95540395,233,0
+4/2/2020,Zambia,Africa,17351822,39,1
+4/2/2020,Zimbabwe,Africa,14439018,9,1
+4/2/2020,Dominica,Americas,71625,12,0
+4/2/2020,Grenada,Americas,111454,10,0
+4/2/2020,Mozambique,Africa,29495962,10,0
+4/2/2020,Syria,Asia,16906283,16,2
+4/2/2020,Timor-Leste,#N/A,#N/A,1,0
+4/2/2020,Belize,Americas,383071,3,0
+4/2/2020,Laos,Asia,7061507,10,0
+4/2/2020,Libya,Africa,6678567,11,1
+4/2/2020,West Bank and Gaza,#N/A,#N/A,161,1
+4/2/2020,Guinea-Bissau,#N/A,#N/A,9,0
+4/2/2020,Mali,Africa,19077690,36,3
+4/2/2020,Saint Kitts and Nevis,Americas,52441,9,0
+4/2/2020,Canada,Americas,37058856,11284,139
+4/2/2020,Kosovo,Europe,1845300,125,1
+4/2/2020,Burma,#N/A,#N/A,20,1
+4/2/2020,United Kingdom,Europe,66488991,34173,2926
+4/2/2020,MS Zaandam,#N/A,#N/A,9,2
+4/2/2020,Botswana,#N/A,#N/A,4,1
+4/2/2020,Burundi,#N/A,#N/A,3,0
+4/2/2020,Sierra Leone,#N/A,#N/A,2,0
+4/2/2020,Malawi,#N/A,#N/A,3,0
