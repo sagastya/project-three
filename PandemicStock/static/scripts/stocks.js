@@ -88,8 +88,8 @@ function init() {
     // Layout for the Plot
     var layout = {
       title: `Pandemic Comparative Impact - Dow Jones (DJI)`,
-      xaxis_title: 'Interval - 1D',
-      yaxis_title: 'Currency in USD',
+      xaxis: {title: 'Interval - 1D'},
+      yaxis: {title: 'Currency in USD'},
       showlegend: false
     };
   
@@ -147,8 +147,8 @@ function init() {
     // Layout for BA plot
     var layout = {
       title: `Pandemic Comparative Impact - Boeing (BA)`,
-      xaxis_title: 'Interval - 1D',
-      yaxis_title: 'Currency in USD',
+      xaxis: {title: 'Interval - 1D'},
+      yaxis: {title: 'Currency in USD'},
       showlegend: false
     };
   
@@ -206,8 +206,8 @@ function init() {
     // Layout for DIS plot
     var layout = {
       title: `Pandemic Comparative Impact - Disney (DIS)`,
-      xaxis_title: 'Interval - 1D',
-      yaxis_title: 'Currency in USD',
+      xaxis: {title: 'Interval - 1D'},
+      yaxis: {title: 'Currency in USD'},
       showlegend: false
     };
   
@@ -265,8 +265,8 @@ function init() {
     // Layout for PG plot
     var layout = {
       title: `Pandemic Comparative Impact - Proctor & Gamble (PG)`,
-      xaxis_title: 'Interval - 1D',
-      yaxis_title: 'Currency in USD',
+      xaxis: {title: 'Interval - 1D'},
+      yaxis: {title: 'Currency in USD'},
       showlegend: false
     };
   
