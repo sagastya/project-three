@@ -40,9 +40,9 @@ def heat():
     """Renders the heat page."""
     return render_template(
         'heat.html',
-        title='Heat Map',
+        title='COVID-19 Heat Map:',
         year=datetime.now().year,
-        message='Your heat report page.'
+        message='A heat map (graphical representation of data), across state of USA represented as colors'
     )
 
 @app.route('/live-stats')
@@ -50,9 +50,9 @@ def livestats():
     """Renders the heat page."""
     return render_template(
         'live-stats.html',
-        title='Live Covid Case Map By State.',
+        title='Live statistics:',
         year=datetime.now().year,
-        message='Circles indicate case fatalities positioned where they occured.'
+        message='Tracking the number of  coronavirus Cases & Deaths state wide across USA'
     )
 
 @app.route('/stocks')
