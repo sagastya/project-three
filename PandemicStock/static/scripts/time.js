@@ -1,8 +1,8 @@
 /*
- *    main.js
- *    Mastering Data Visualization with D3.js
- *    6.7 - Adding a jQuery UI slider
- */
+*    main.js
+*    Mastering Data Visualization with D3.js
+*    6.7 - Adding a jQuery UI slider
+*/
 
 var margin = {
     left: 80,
@@ -11,8 +11,8 @@ var margin = {
     bottom: 100
 };
 var height = 500 - margin.top - margin.bottom,
-    width = 800 - margin.left - margin.right,
-    myDelay = 500;
+    width = 800 - margin.left - margin.right
+myDelay = 250;
 
 var g = d3.select("#chart-area")
     .append("svg")
@@ -39,13 +39,17 @@ var tip = d3.tip().attr('class', 'd3-tip')
 g.call(tip);
 
 // Scales
-var x = d3.scaleLinear()
-    .range([0, width])
-    .domain([0, 164620]);
+// var x = d3.scaleLinear()
+//     .range([0, width])
+//     .domain([10, 250000]);
+
+    var x = d3.scaleSqrt()
+        .range([0, width])
+        .domain([10, 250000]);
 
 var y = d3.scaleLinear()
     .range([height, 0])
-    .domain([0, 11591]);
+    .domain([0, 14000]);
 
 var area = d3.scaleLinear()
     .range([25 * Math.PI, 1500 * Math.PI])
@@ -77,7 +81,7 @@ var timeLabel = g.append("text")
 
 // X Axis
 var xAxisCall = d3.axisBottom(x)
-    .tickValues(d3.range(0, 170000, 20000))
+    .tickValues([500,4000,12000,24000,42000,64000,92000,124000,162000,204000])
 
 g.append("g")
     .attr("class", "x axis")
@@ -97,8 +101,8 @@ g.append("g")
 var continents = ["europe", "asia", "americas", "africa"];
 
 var legend = g.append("g")
-    .attr("transform", "translate(" + (width - 10) +
-        "," + (height - 125) + ")");
+    .attr("transform", "translate(" + (width ) +
+        "," + (height - 325) + ")");
 
 continents.forEach(function (continent, i) {
     var legendRow = legend.append("g")
@@ -118,7 +122,7 @@ continents.forEach(function (continent, i) {
 });
 
 d3.csv("static/data/covid-data.csv").then(function (data) {
-     console.log(data);
+    // console.log(data);
 
 
     var databyDate = d3.nest()
@@ -128,7 +132,7 @@ d3.csv("static/data/covid-data.csv").then(function (data) {
         .entries(data);
 
     console.log(databyDate);
-
+    // Clean data
     formattedData = databyDate.map(function (data) {
         // console.log(data);
         var myDate = data["values"].filter(
@@ -180,8 +184,8 @@ $("#continent-select")
     })
 
 $("#date-slider").slider({
-    max: 91,
-    min: 0,
+    max: 78,
+    min: 1,
     step: 1,
     slide: function (event, ui) {
         time = ui.value;
@@ -196,7 +200,7 @@ function sleep(time) {
 
 function step() {
     // At the end of our data, loop back
-    time = (time < 91) ? time + 1 : 0
+    time = (time < 78) ? time + 1 : 78
     sleep(myDelay).then(() => {
         // Do something after the sleep!
         update(formattedData[time]);
