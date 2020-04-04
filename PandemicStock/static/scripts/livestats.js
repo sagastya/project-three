@@ -66,7 +66,7 @@ xhr.addEventListener("readystatechange", processRequest, false);
 function processRequest(e) {
     if (xhr.readyState == 4 && xhr.status == 200) {
         apiURL = xhr.responseText;
-        alert("I got this witjh an api call the retuned this url from the postgres db {" + apiURL +"}"  );
+        alert("The map data was retrieved from the URL " + apiURL +" which was retrived from the api endpoint /states that was stored in the postgres db. I then used d3.json() to retrieve the data.");
 
 d3.json(apiURL).then(function (data) {
     //color.domain(d3.extent(data.cases)); // setting the range of the input data
