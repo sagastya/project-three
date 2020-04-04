@@ -20,13 +20,32 @@ def table():
     response = requests.get(queryUrl).json()
     return response
 
-@app.route('/chart')
-def chart():
-    """Renders the contact page."""
-    print("rendering chart from python application")
+@app.route('/states')
+def states():
+    """Renders the states page."""
+    print("rendering states from python application")
     # get api info from database
-    apikey, baseurl = getApiInfo(1)
-    queryUrl = baseurl + "&api_key="+ apikey
+    apikey, baseurl = getApiInfo(3)
+    #print("states after get api : " + baseurl)
+    #response = requests.get(baseurl)
+    #print("states response: " + response)
+
+    #payload = {}
+    #headers = {'Cookie': '__cfduid=dcdbc85acad85fa96673d13871c927a311585412245'}
+    #response = requests.request("GET", baseurl, headers=headers, data = payload).json()
+    #response = requests.get(baseurl).json()
+    #print(response.text.encode('utf8'))
+    #jsonresponse = response.json()
+    #print("states response: " + response)
+    return baseurl
+
+@app.route('/jhucsse')
+def jhucsse():
+    """Renders the jhucsse page."""
+    print("rendering jhucsse from python application")
+    # get api info from database
+    apikey, baseurl = getApiInfo(4)
+    queryUrl = baseurl 
     response = requests.get(queryUrl).json()
     return response
 

@@ -131,7 +131,7 @@ d3.csv("static/data/covid-data.csv").then(function (data) {
         })
         .entries(data);
 
-    console.log(databyDate);
+   // console.log(databyDate);
     // Clean data
     formattedData = databyDate.map(function (data) {
         // console.log(data);
@@ -166,6 +166,8 @@ $("#play-button")
         if (button.text() == "Play") {
             button.text("Pause");
             interval = setInterval(step, myDelay);
+            time = 0;
+            update(formattedData[0]);
         } else {
             button.text("Play");
             clearInterval(interval);
@@ -201,6 +203,9 @@ function sleep(time) {
 function step() {
     // At the end of our data, loop back
     time = (time < 78) ? time + 1 : 78;
+    if (time === 78){
+        $( "#play-button" ).trigger( "click" );
+    } 
     sleep(myDelay).then(() => {
         // Do something after the sleep!
         update(formattedData[time]);

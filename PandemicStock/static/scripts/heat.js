@@ -12,6 +12,8 @@ var layout = {
     coloraxis: {colorscale: "Viridis"}, title: {text: "Covid-19 Spread"},
     width: 860, height: 500, margin: {t: 30, b: 0}};
 
+    url="/key"
+
 var config = {mapboxAccessToken: "pk.eyJ1IjoiYmNoaWxkcmVzczc0IiwiYSI6ImNrN21odDV1ZDBpZnQzZm8wMjB3NG9rejEifQ.lQ2Fv3q-Jwr0-47R2F3-zg"};
 
 Plotly.newPlot('myDiv', data, layout, config);

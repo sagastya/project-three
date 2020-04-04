@@ -55,7 +55,20 @@ var mapGroup = svg.append("g")
 var toolTip = d3.select("#myDiv").insert('div')
     .attr("class", "tool-tip");
 // Load in my states data!
-d3.json("https://corona.lmao.ninja/states").then(function (data) {
+
+var url="/states"
+
+var xhr = new XMLHttpRequest();
+xhr.open('GET', url, true);
+xhr.send();
+var apiURL = "";
+xhr.addEventListener("readystatechange", processRequest, false);
+function processRequest(e) {
+    if (xhr.readyState == 4 && xhr.status == 200) {
+        apiURL = xhr.responseText;
+        alert("I got this witjh an api call the retuned this url from the postgres db {" + apiURL +"}"  );
+
+d3.json(apiURL).then(function (data) {
     //color.domain(d3.extent(data.cases)); // setting the range of the input data
     var caseCount = [];
 
@@ -145,35 +158,40 @@ d3.json("https://corona.lmao.ninja/states").then(function (data) {
 
 
         // // Map the cities I have lived in!
-        d3.json("https://corona.lmao.ninja/jhucsse").then(function (data) {
+        // url="/jhucsse"
+        // d3.json("https://corona.lmao.ninja/v2/jhucsse").then(function (data) {
 
-        
-            var usfiltered = data.filter(a => a.country == "US");
-            var deaths = usfiltered.filter(a => a.stats.deaths > 0)
-            deaths = deaths.filter(a => a.coordinates.longitude.length > 4)
-            deaths = deaths.filter(a => a.coordinates.latitude.length > 4)
-            deaths = deaths.filter(a => a.city !== null)
-            deaths.sort(function (x, y) {
-                return d3.ascending(x.stats.deaths, y.stats.deaths);
-            })
-            svg.selectAll("circle")
-                .data(deaths)
-                .enter()
-                .append("circle")
-                .attr("cx", function (d) {
-                    return projection([d.coordinates.longitude, d.coordinates.latitude])[0];
-                })
-                .attr("cy", function (d) {
-                    return projection([d.coordinates.longitude, d.coordinates.latitude])[1];
-                })
-                .attr("r", function (d) {
-                    return Math.sqrt(d.stats.deaths)/2;
-                })
-                .style("fill", "rgb(217,255,255)")
-                .style("opacity", 0.50)
-                .style("stroke-width", 1)
-                .style("stroke", "rgb(0.0.0.0)")
-        });
+        // console.log(data);
+        //     var usfiltered = data.filter(a => a.country == "US");
+        //     console.log(usfiltered);
+        //     var deaths = usfiltered.filter(a => a.stats.deaths > 0)
+        //     console.log(deaths);
+        //     deaths = deaths.filter(a => a.coordinates.longitude.length > 4)
+        //     deaths = deaths.filter(a => a.coordinates.latitude.length > 4)
+        //     console.log(deaths);
+        //     deaths.sort(function (x, y) {
+        //         return d3.ascending(x.stats.deaths, y.stats.deaths);
+        //     })
+        //     svg.selectAll("circle")
+        //         .data(deaths)
+        //         .enter()
+        //         .append("circle")
+        //         .attr("cx", function (d) {
+        //             console.log(d);
+        //             return projection([d.coordinates.longitude, d.coordinates.latitude])[0];
+        //         })
+        //         .attr("cy", function (d) {
+        //             console.log(d);
+        //             return projection([d.coordinates.longitude, d.coordinates.latitude])[1];
+        //         })
+        //         .attr("r", function (d) {
+        //             return Math.sqrt(d.stats.deaths)/2;
+        //         })
+        //         .style("fill", "rgb(217,255,255)")
+        //         .style("opacity", 0.50)
+        //         .style("stroke-width", 1)
+        //         .style("stroke", "rgb(0.0.0.0)")
+        // });
 
 
         var myDomain = color.domain();
@@ -208,3 +226,6 @@ d3.json("https://corona.lmao.ninja/states").then(function (data) {
     });
 
 });
+
+}
+};

@@ -13,7 +13,7 @@ from PandemicStock import app
 import os
 
 
-DATABASE_URL = os.environ.get('DATABASE_URL', '') or "postgres://hzwshsxsrawqqs:2be12dc523a3d98d676c8278d557686ba5823c287e177b153c56a62197952635@ec2-52-203-160-194.compute-1.amazonaws.com:5432/db73f0i1h1ehih"
+DATABASE_URL = os.environ.get('DATABASE_URL', '') or "postgres://vvsfwmewzgcqyp:385accacbde1427f81cb04c7bdeb24d7578f239bf4a0a38c71da1819def16d73@ec2-54-157-78-113.compute-1.amazonaws.com:5432/d1gcor427u7djl"
 app.config['SQLALCHEMY_DATABASE_URI'] = DATABASE_URL
 db = SQLAlchemy(app)
 
@@ -26,6 +26,6 @@ def getApiInfo(apikey_id):
     print(data)
     key= data['api_key'][0]
     baseurl = data['base_url'][0]
-    print(key)
+    print(baseurl)
     return key , baseurl
 

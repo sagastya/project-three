@@ -8,10 +8,10 @@
 	height:50px;
 }
 
-.navbar-brand {
+/* .navbar-brand {
 	height: 60px;
 	padding: 5px 0px;
-}
+} */
 
 #reset-button, #play-button, #slider-div {
 	float: left;
