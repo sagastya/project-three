@@ -1,3 +1,3 @@
-# project-three
+# Data Visualization Project
 
 ## Pandemic Stock
