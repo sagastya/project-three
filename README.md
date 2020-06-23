@@ -25,12 +25,9 @@ The purpose of this project is to tell a story through data vizualizations focus
   7. SQL 
        * PostgreSQL
        
-### Contributors
-
-Thanks to the following people who have contributed to this project:
-    
+### Credits   
     * @Atlchris67
+    * @tdona10
+    * @sagastya
     * @bchildress74
-    * Donatien Toni (Covid in Motion)
-    * Nirguna Joshi (Presentation)
-    
+    * @nirgunjoshi
